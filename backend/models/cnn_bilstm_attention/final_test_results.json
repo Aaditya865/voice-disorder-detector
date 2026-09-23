@@ -1,0 +1,551 @@
+{
+  "evaluation_type": "FINAL HELD-OUT TEST EVALUATION",
+  "evaluated_at": "2026-09-23T21:04:40.467947",
+  "model_architecture": "2D CNN + BiLSTM + Attention (Config A Baseline Light)",
+  "model_checkpoint": "backend\\models\\cnn_bilstm_attention\\Config_A_Baseline_Light_best.pt",
+  "checkpoint_epoch": 10,
+  "checkpoint_val_loss": 1.3005,
+  "classes": [
+    "Laryngitis",
+    "Laryngozele",
+    "Normal",
+    "Vocal_fold_paralysis",
+    "Vocal_fold_polyp",
+    "Vox_senilis"
+  ],
+  "cohort_summary": {
+    "test_speakers": 16,
+    "test_recordings": 144,
+    "recordings_per_speaker": 9,
+    "speaker_isolation": "Strictly held-out; never used during training, tuning, or selection"
+  },
+  "test_performance": {
+    "recording_level": {
+      "accuracy": 0.4236,
+      "macro_precision": 0.3503,
+      "macro_recall": 0.3765,
+      "macro_f1": 0.3308,
+      "weighted_f1": 0.3722,
+      "total_recordings": 144,
+      "correct_recordings": 61
+    },
+    "speaker_level": {
+      "soft_voting_accuracy": 0.5,
+      "majority_voting_accuracy": 0.5625,
+      "correct_soft_speakers": 8,
+      "correct_majority_speakers": 9,
+      "total_speakers": 16
+    }
+  },
+  "per_class_recording_metrics": [
+    {
+      "class": "Laryngitis",
+      "precision": 0.413,
+      "recall": 0.7037,
+      "f1_score": 0.5205,
+      "support": 27
+    },
+    {
+      "class": "Laryngozele",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 9
+    },
+    {
+      "class": "Normal",
+      "precision": 0.4898,
+      "recall": 0.8889,
+      "f1_score": 0.6316,
+      "support": 27
+    },
+    {
+      "class": "Vocal_fold_paralysis",
+      "precision": 0.3636,
+      "recall": 0.2963,
+      "f1_score": 0.3265,
+      "support": 27
+    },
+    {
+      "class": "Vocal_fold_polyp",
+      "precision": 0.6,
+      "recall": 0.2222,
+      "f1_score": 0.3243,
+      "support": 27
+    },
+    {
+      "class": "Vox_senilis",
+      "precision": 0.2353,
+      "recall": 0.1481,
+      "f1_score": 0.1818,
+      "support": 27
+    }
+  ],
+  "per_class_speaker_metrics": [
+    {
+      "class": "Laryngitis",
+      "speaker_support": 3,
+      "soft_voting": {
+        "precision": 0.6,
+        "recall": 1.0,
+        "f1_score": 0.75,
+        "correct_speakers": 3
+      },
+      "majority_voting": {
+        "precision": 0.6,
+        "recall": 1.0,
+        "f1_score": 0.75,
+        "correct_speakers": 3
+      }
+    },
+    {
+      "class": "Laryngozele",
+      "speaker_support": 1,
+      "soft_voting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "correct_speakers": 0
+      },
+      "majority_voting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "correct_speakers": 0
+      }
+    },
+    {
+      "class": "Normal",
+      "speaker_support": 3,
+      "soft_voting": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1_score": 0.6667,
+        "correct_speakers": 3
+      },
+      "majority_voting": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1_score": 0.6667,
+        "correct_speakers": 3
+      }
+    },
+    {
+      "class": "Vocal_fold_paralysis",
+      "speaker_support": 3,
+      "soft_voting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "correct_speakers": 0
+      },
+      "majority_voting": {
+        "precision": 0.5,
+        "recall": 0.3333,
+        "f1_score": 0.4,
+        "correct_speakers": 1
+      }
+    },
+    {
+      "class": "Vocal_fold_polyp",
+      "speaker_support": 3,
+      "soft_voting": {
+        "precision": 1.0,
+        "recall": 0.3333,
+        "f1_score": 0.5,
+        "correct_speakers": 1
+      },
+      "majority_voting": {
+        "precision": 1.0,
+        "recall": 0.3333,
+        "f1_score": 0.5,
+        "correct_speakers": 1
+      }
+    },
+    {
+      "class": "Vox_senilis",
+      "speaker_support": 3,
+      "soft_voting": {
+        "precision": 0.25,
+        "recall": 0.3333,
+        "f1_score": 0.2857,
+        "correct_speakers": 1
+      },
+      "majority_voting": {
+        "precision": 0.5,
+        "recall": 0.3333,
+        "f1_score": 0.4,
+        "correct_speakers": 1
+      }
+    }
+  ],
+  "speaker_macro_metrics": {
+    "soft_voting": {
+      "precision": 0.3917,
+      "recall": 0.4444,
+      "f1": 0.3671
+    },
+    "majority_voting": {
+      "precision": 0.5167,
+      "recall": 0.5,
+      "f1": 0.4528
+    }
+  },
+  "confusion_matrix": [
+    [
+      19,
+      0,
+      4,
+      0,
+      2,
+      2
+    ],
+    [
+      4,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      24,
+      2,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      9,
+      8,
+      2,
+      7
+    ],
+    [
+      12,
+      0,
+      0,
+      5,
+      6,
+      4
+    ],
+    [
+      9,
+      0,
+      7,
+      7,
+      0,
+      4
+    ]
+  ],
+  "per_speaker_predictions": [
+    {
+      "speaker_id": "1498",
+      "true_class": "Laryngitis",
+      "predicted_class_soft": "Laryngitis",
+      "predicted_class_majority": "Laryngitis",
+      "correct_soft": true,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.4308,
+        "Laryngozele": 0.0225,
+        "Normal": 0.2314,
+        "Vocal_fold_paralysis": 0.0762,
+        "Vocal_fold_polyp": 0.136,
+        "Vox_senilis": 0.1031
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1502",
+      "true_class": "Laryngitis",
+      "predicted_class_soft": "Laryngitis",
+      "predicted_class_majority": "Laryngitis",
+      "correct_soft": true,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.3815,
+        "Laryngozele": 0.0324,
+        "Normal": 0.0401,
+        "Vocal_fold_paralysis": 0.151,
+        "Vocal_fold_polyp": 0.2123,
+        "Vox_senilis": 0.1827
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1511",
+      "true_class": "Laryngitis",
+      "predicted_class_soft": "Laryngitis",
+      "predicted_class_majority": "Laryngitis",
+      "correct_soft": true,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.3184,
+        "Laryngozele": 0.021,
+        "Normal": 0.2017,
+        "Vocal_fold_paralysis": 0.1312,
+        "Vocal_fold_polyp": 0.1702,
+        "Vox_senilis": 0.1574
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "2191",
+      "true_class": "Laryngozele",
+      "predicted_class_soft": "Normal",
+      "predicted_class_majority": "Normal",
+      "correct_soft": false,
+      "correct_majority": false,
+      "posterior_probabilities": {
+        "Laryngitis": 0.2331,
+        "Laryngozele": 0.0146,
+        "Normal": 0.3457,
+        "Vocal_fold_paralysis": 0.1257,
+        "Vocal_fold_polyp": 0.1429,
+        "Vox_senilis": 0.1381
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "20",
+      "true_class": "Normal",
+      "predicted_class_soft": "Normal",
+      "predicted_class_majority": "Normal",
+      "correct_soft": true,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1192,
+        "Laryngozele": 0.0081,
+        "Normal": 0.6248,
+        "Vocal_fold_paralysis": 0.0783,
+        "Vocal_fold_polyp": 0.0785,
+        "Vox_senilis": 0.0912
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "21",
+      "true_class": "Normal",
+      "predicted_class_soft": "Normal",
+      "predicted_class_majority": "Normal",
+      "correct_soft": true,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1287,
+        "Laryngozele": 0.0079,
+        "Normal": 0.6192,
+        "Vocal_fold_paralysis": 0.0762,
+        "Vocal_fold_polyp": 0.0831,
+        "Vox_senilis": 0.0849
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "26",
+      "true_class": "Normal",
+      "predicted_class_soft": "Normal",
+      "predicted_class_majority": "Normal",
+      "correct_soft": true,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1105,
+        "Laryngozele": 0.0079,
+        "Normal": 0.5749,
+        "Vocal_fold_paralysis": 0.1063,
+        "Vocal_fold_polyp": 0.0988,
+        "Vox_senilis": 0.1017
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1382",
+      "true_class": "Vocal_fold_paralysis",
+      "predicted_class_soft": "Vox_senilis",
+      "predicted_class_majority": "Vox_senilis",
+      "correct_soft": false,
+      "correct_majority": false,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1365,
+        "Laryngozele": 0.036,
+        "Normal": 0.0245,
+        "Vocal_fold_paralysis": 0.2703,
+        "Vocal_fold_polyp": 0.2485,
+        "Vox_senilis": 0.2842
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1383",
+      "true_class": "Vocal_fold_paralysis",
+      "predicted_class_soft": "Normal",
+      "predicted_class_majority": "Normal",
+      "correct_soft": false,
+      "correct_majority": false,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1307,
+        "Laryngozele": 0.0085,
+        "Normal": 0.5852,
+        "Vocal_fold_paralysis": 0.0894,
+        "Vocal_fold_polyp": 0.0889,
+        "Vox_senilis": 0.0972
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1385",
+      "true_class": "Vocal_fold_paralysis",
+      "predicted_class_soft": "Vox_senilis",
+      "predicted_class_majority": "Vocal_fold_paralysis",
+      "correct_soft": false,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1416,
+        "Laryngozele": 0.0413,
+        "Normal": 0.0259,
+        "Vocal_fold_paralysis": 0.2679,
+        "Vocal_fold_polyp": 0.253,
+        "Vox_senilis": 0.2702
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1882",
+      "true_class": "Vocal_fold_polyp",
+      "predicted_class_soft": "Vocal_fold_polyp",
+      "predicted_class_majority": "Vocal_fold_polyp",
+      "correct_soft": true,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.2031,
+        "Laryngozele": 0.0457,
+        "Normal": 0.0334,
+        "Vocal_fold_paralysis": 0.2318,
+        "Vocal_fold_polyp": 0.2501,
+        "Vox_senilis": 0.2359
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1922",
+      "true_class": "Vocal_fold_polyp",
+      "predicted_class_soft": "Laryngitis",
+      "predicted_class_majority": "Laryngitis",
+      "correct_soft": false,
+      "correct_majority": false,
+      "posterior_probabilities": {
+        "Laryngitis": 0.3626,
+        "Laryngozele": 0.0207,
+        "Normal": 0.0996,
+        "Vocal_fold_paralysis": 0.1462,
+        "Vocal_fold_polyp": 0.1999,
+        "Vox_senilis": 0.171
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1938",
+      "true_class": "Vocal_fold_polyp",
+      "predicted_class_soft": "Vox_senilis",
+      "predicted_class_majority": "Vocal_fold_paralysis",
+      "correct_soft": false,
+      "correct_majority": false,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1818,
+        "Laryngozele": 0.0308,
+        "Normal": 0.0359,
+        "Vocal_fold_paralysis": 0.2529,
+        "Vocal_fold_polyp": 0.2435,
+        "Vox_senilis": 0.255
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "1993",
+      "true_class": "Vox_senilis",
+      "predicted_class_soft": "Normal",
+      "predicted_class_majority": "Normal",
+      "correct_soft": false,
+      "correct_majority": false,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1618,
+        "Laryngozele": 0.0142,
+        "Normal": 0.2888,
+        "Vocal_fold_paralysis": 0.1859,
+        "Vocal_fold_polyp": 0.1625,
+        "Vox_senilis": 0.1867
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "2036",
+      "true_class": "Vox_senilis",
+      "predicted_class_soft": "Vox_senilis",
+      "predicted_class_majority": "Vox_senilis",
+      "correct_soft": true,
+      "correct_majority": true,
+      "posterior_probabilities": {
+        "Laryngitis": 0.1379,
+        "Laryngozele": 0.0242,
+        "Normal": 0.0263,
+        "Vocal_fold_paralysis": 0.2805,
+        "Vocal_fold_polyp": 0.2489,
+        "Vox_senilis": 0.2822
+      },
+      "recording_count": 9
+    },
+    {
+      "speaker_id": "2084",
+      "true_class": "Vox_senilis",
+      "predicted_class_soft": "Laryngitis",
+      "predicted_class_majority": "Laryngitis",
+      "correct_soft": false,
+      "correct_majority": false,
+      "posterior_probabilities": {
+        "Laryngitis": 0.3615,
+        "Laryngozele": 0.0233,
+        "Normal": 0.2804,
+        "Vocal_fold_paralysis": 0.0849,
+        "Vocal_fold_polyp": 0.1386,
+        "Vox_senilis": 0.1112
+      },
+      "recording_count": 9
+    }
+  ],
+  "comparisons": {
+    "vs_wav2vec2_rf": {
+      "rf_model": "Wav2Vec2 + Random Forest (Config #9)",
+      "rf_test_recording_accuracy": 0.2708,
+      "rf_test_macro_f1": 0.2368,
+      "rf_test_macro_precision": 0.2396,
+      "rf_test_macro_recall": 0.2407,
+      "rf_test_speaker_soft_accuracy": 0.5,
+      "rf_test_speaker_majority_accuracy": 0.3125,
+      "cnn_test_recording_accuracy": 0.4236,
+      "cnn_test_macro_f1": 0.3308,
+      "cnn_test_speaker_soft_accuracy": 0.5,
+      "cnn_test_speaker_majority_accuracy": 0.5625,
+      "delta_recording_accuracy": 0.1528,
+      "delta_macro_f1": 0.094,
+      "delta_speaker_soft_accuracy": 0.0,
+      "delta_speaker_majority_accuracy": 0.25
+    },
+    "vs_cnn_validation": {
+      "cnn_val_recording_accuracy": 0.4519,
+      "cnn_val_macro_f1": 0.387,
+      "cnn_val_speaker_soft_accuracy": 0.4,
+      "cnn_val_speaker_majority_accuracy": 0.5333,
+      "cnn_test_recording_accuracy": 0.4236,
+      "cnn_test_macro_f1": 0.3308,
+      "cnn_test_speaker_soft_accuracy": 0.5,
+      "cnn_test_speaker_majority_accuracy": 0.5625,
+      "delta_recording_accuracy": -0.0283,
+      "delta_macro_f1": -0.0562,
+      "delta_speaker_soft_accuracy": 0.1,
+      "delta_speaker_majority_accuracy": 0.0292
+    }
+  }
+}

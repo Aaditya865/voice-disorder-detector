@@ -1,0 +1,50 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+*.venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Node / Frontend build output and dependencies
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.npm
+
+# Temporary data, audio files, and large raw datasets
+*.wav
+*.nsp
+*.zip
+*.tar
+*.gz
+*.mp3
+*.flac
+*.ogg
+backend/data/
+
+# Raw audio subdirectories in dataset (keeping metadata and README)
+dataset/*/
+
+# Environment variables, credentials, and secrets
+.env
+.env.*
+*.pem
+*.key
+*.token
+
+# Logs and runtime caches
+*.log
+.pytest_cache/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

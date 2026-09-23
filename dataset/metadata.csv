@@ -1,0 +1,928 @@
+speaker_id,class,session_id,recording_type,vowel,pitch,original_file,processed_file,split,sampling_rate,duration_seconds,gender,birthdate,age,pathology
+1498,Laryngitis,904,sustained_vowel_a_high,a,high,904/vowels/904-a_h.nsp,dataset/Laryngitis/speaker_1498/904-a_h.wav,test,16000,1.4466,m,1949-09-24,,Laryngitis
+1498,Laryngitis,904,sustained_vowel_a_low,a,low,904/vowels/904-a_l.nsp,dataset/Laryngitis/speaker_1498/904-a_l.wav,test,16000,1.4966,m,1949-09-24,,Laryngitis
+1498,Laryngitis,904,sustained_vowel_a_normal,a,normal,904/vowels/904-a_n.nsp,dataset/Laryngitis/speaker_1498/904-a_n.wav,test,16000,1.2019,m,1949-09-24,,Laryngitis
+1498,Laryngitis,904,sustained_vowel_i_high,i,high,904/vowels/904-i_h.nsp,dataset/Laryngitis/speaker_1498/904-i_h.wav,test,16000,1.9963,m,1949-09-24,,Laryngitis
+1498,Laryngitis,904,sustained_vowel_i_low,i,low,904/vowels/904-i_l.nsp,dataset/Laryngitis/speaker_1498/904-i_l.wav,test,16000,1.2548,m,1949-09-24,,Laryngitis
+1498,Laryngitis,904,sustained_vowel_i_normal,i,normal,904/vowels/904-i_n.nsp,dataset/Laryngitis/speaker_1498/904-i_n.wav,test,16000,1.9507,m,1949-09-24,,Laryngitis
+1498,Laryngitis,904,sustained_vowel_u_high,u,high,904/vowels/904-u_h.nsp,dataset/Laryngitis/speaker_1498/904-u_h.wav,test,16000,1.3444,m,1949-09-24,,Laryngitis
+1498,Laryngitis,904,sustained_vowel_u_low,u,low,904/vowels/904-u_l.nsp,dataset/Laryngitis/speaker_1498/904-u_l.wav,test,16000,1.0267,m,1949-09-24,,Laryngitis
+1498,Laryngitis,904,sustained_vowel_u_normal,u,normal,904/vowels/904-u_n.nsp,dataset/Laryngitis/speaker_1498/904-u_n.wav,test,16000,1.6007,m,1949-09-24,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_a_high,a,high,910/vowels/910-a_h.nsp,dataset/Laryngitis/speaker_1502/910-a_h.wav,test,16000,1.3594,m,1958-01-01,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_a_low,a,low,910/vowels/910-a_l.nsp,dataset/Laryngitis/speaker_1502/910-a_l.wav,test,16000,1.5151,m,1958-01-01,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_a_normal,a,normal,910/vowels/910-a_n.nsp,dataset/Laryngitis/speaker_1502/910-a_n.wav,test,16000,1.3901,m,1958-01-01,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_i_high,i,high,910/vowels/910-i_h.nsp,dataset/Laryngitis/speaker_1502/910-i_h.wav,test,16000,1.4164,m,1958-01-01,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_i_low,i,low,910/vowels/910-i_l.nsp,dataset/Laryngitis/speaker_1502/910-i_l.wav,test,16000,1.9018,m,1958-01-01,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_i_normal,i,normal,910/vowels/910-i_n.nsp,dataset/Laryngitis/speaker_1502/910-i_n.wav,test,16000,1.1701,m,1958-01-01,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_u_high,u,high,910/vowels/910-u_h.nsp,dataset/Laryngitis/speaker_1502/910-u_h.wav,test,16000,1.4001,m,1958-01-01,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_u_low,u,low,910/vowels/910-u_l.nsp,dataset/Laryngitis/speaker_1502/910-u_l.wav,test,16000,1.7551,m,1958-01-01,,Laryngitis
+1502,Laryngitis,910,sustained_vowel_u_normal,u,normal,910/vowels/910-u_n.nsp,dataset/Laryngitis/speaker_1502/910-u_n.wav,test,16000,1.5109,m,1958-01-01,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_a_high,a,high,919/vowels/919-a_h.nsp,dataset/Laryngitis/speaker_1511/919-a_h.wav,test,16000,1.6322,w,1972-11-25,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_a_low,a,low,919/vowels/919-a_l.nsp,dataset/Laryngitis/speaker_1511/919-a_l.wav,test,16000,1.3001,w,1972-11-25,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_a_normal,a,normal,919/vowels/919-a_n.nsp,dataset/Laryngitis/speaker_1511/919-a_n.wav,test,16000,1.7429,w,1972-11-25,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_i_high,i,high,919/vowels/919-i_h.nsp,dataset/Laryngitis/speaker_1511/919-i_h.wav,test,16000,1.8061,w,1972-11-25,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_i_low,i,low,919/vowels/919-i_l.nsp,dataset/Laryngitis/speaker_1511/919-i_l.wav,test,16000,1.5629,w,1972-11-25,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_i_normal,i,normal,919/vowels/919-i_n.nsp,dataset/Laryngitis/speaker_1511/919-i_n.wav,test,16000,1.296,w,1972-11-25,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_u_high,u,high,919/vowels/919-u_h.nsp,dataset/Laryngitis/speaker_1511/919-u_h.wav,test,16000,1.3756,w,1972-11-25,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_u_low,u,low,919/vowels/919-u_l.nsp,dataset/Laryngitis/speaker_1511/919-u_l.wav,test,16000,1.3527,w,1972-11-25,,Laryngitis
+1511,Laryngitis,919,sustained_vowel_u_normal,u,normal,919/vowels/919-u_n.nsp,dataset/Laryngitis/speaker_1511/919-u_n.wav,test,16000,1.2104,w,1972-11-25,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_a_high,a,high,107/vowels/107-a_h.nsp,dataset/Laryngitis/speaker_1304/107-a_h.wav,train,16000,0.5583,m,1937-12-17,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_a_low,a,low,107/vowels/107-a_l.nsp,dataset/Laryngitis/speaker_1304/107-a_l.wav,train,16000,0.7601,m,1937-12-17,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_a_normal,a,normal,107/vowels/107-a_n.nsp,dataset/Laryngitis/speaker_1304/107-a_n.wav,train,16000,1.2111,m,1937-12-17,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_i_high,i,high,107/vowels/107-i_h.nsp,dataset/Laryngitis/speaker_1304/107-i_h.wav,train,16000,0.9981,m,1937-12-17,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_i_low,i,low,107/vowels/107-i_l.nsp,dataset/Laryngitis/speaker_1304/107-i_l.wav,train,16000,0.9834,m,1937-12-17,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_i_normal,i,normal,107/vowels/107-i_n.nsp,dataset/Laryngitis/speaker_1304/107-i_n.wav,train,16000,1.3129,m,1937-12-17,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_u_high,u,high,107/vowels/107-u_h.nsp,dataset/Laryngitis/speaker_1304/107-u_h.wav,train,16000,0.7805,m,1937-12-17,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_u_low,u,low,107/vowels/107-u_l.nsp,dataset/Laryngitis/speaker_1304/107-u_l.wav,train,16000,0.9857,m,1937-12-17,,Laryngitis
+1304,Laryngitis,107,sustained_vowel_u_normal,u,normal,107/vowels/107-u_n.nsp,dataset/Laryngitis/speaker_1304/107-u_n.wav,train,16000,1.0605,m,1937-12-17,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_a_high,a,high,139/vowels/139-a_h.nsp,dataset/Laryngitis/speaker_1318/139-a_h.wav,train,16000,1.5701,m,1979-12-27,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_a_low,a,low,139/vowels/139-a_l.nsp,dataset/Laryngitis/speaker_1318/139-a_l.wav,train,16000,1.0617,m,1979-12-27,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_a_normal,a,normal,139/vowels/139-a_n.nsp,dataset/Laryngitis/speaker_1318/139-a_n.wav,train,16000,1.5833,m,1979-12-27,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_i_high,i,high,139/vowels/139-i_h.nsp,dataset/Laryngitis/speaker_1318/139-i_h.wav,train,16000,1.1501,m,1979-12-27,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_i_low,i,low,139/vowels/139-i_l.nsp,dataset/Laryngitis/speaker_1318/139-i_l.wav,train,16000,1.1812,m,1979-12-27,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_i_normal,i,normal,139/vowels/139-i_n.nsp,dataset/Laryngitis/speaker_1318/139-i_n.wav,train,16000,1.9073,m,1979-12-27,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_u_high,u,high,139/vowels/139-u_h.nsp,dataset/Laryngitis/speaker_1318/139-u_h.wav,train,16000,1.2601,m,1979-12-27,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_u_low,u,low,139/vowels/139-u_l.nsp,dataset/Laryngitis/speaker_1318/139-u_l.wav,train,16000,1.2283,m,1979-12-27,,Laryngitis
+1318,Laryngitis,139,sustained_vowel_u_normal,u,normal,139/vowels/139-u_n.nsp,dataset/Laryngitis/speaker_1318/139-u_n.wav,train,16000,1.4354,m,1979-12-27,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_a_high,a,high,141/vowels/141-a_h.nsp,dataset/Laryngitis/speaker_1320/141-a_h.wav,train,16000,0.9321,m,1956-02-11,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_a_low,a,low,141/vowels/141-a_l.nsp,dataset/Laryngitis/speaker_1320/141-a_l.wav,train,16000,0.6106,m,1956-02-11,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_a_normal,a,normal,141/vowels/141-a_n.nsp,dataset/Laryngitis/speaker_1320/141-a_n.wav,train,16000,1.5559,m,1956-02-11,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_i_high,i,high,141/vowels/141-i_h.nsp,dataset/Laryngitis/speaker_1320/141-i_h.wav,train,16000,1.3341,m,1956-02-11,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_i_low,i,low,141/vowels/141-i_l.nsp,dataset/Laryngitis/speaker_1320/141-i_l.wav,train,16000,0.5743,m,1956-02-11,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_i_normal,i,normal,141/vowels/141-i_n.nsp,dataset/Laryngitis/speaker_1320/141-i_n.wav,train,16000,1.9957,m,1956-02-11,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_u_high,u,high,141/vowels/141-u_h.nsp,dataset/Laryngitis/speaker_1320/141-u_h.wav,train,16000,1.1961,m,1956-02-11,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_u_low,u,low,141/vowels/141-u_l.nsp,dataset/Laryngitis/speaker_1320/141-u_l.wav,train,16000,0.7061,m,1956-02-11,,Laryngitis
+1320,Laryngitis,141,sustained_vowel_u_normal,u,normal,141/vowels/141-u_n.nsp,dataset/Laryngitis/speaker_1320/141-u_n.wav,train,16000,1.5245,m,1956-02-11,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_a_high,a,high,493/vowels/493-a_h.nsp,dataset/Laryngitis/speaker_1365/493-a_h.wav,train,16000,0.9791,m,1961-03-25,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_a_low,a,low,493/vowels/493-a_l.nsp,dataset/Laryngitis/speaker_1365/493-a_l.wav,train,16000,0.8811,m,1961-03-25,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_a_normal,a,normal,493/vowels/493-a_n.nsp,dataset/Laryngitis/speaker_1365/493-a_n.wav,train,16000,1.3364,m,1961-03-25,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_i_high,i,high,493/vowels/493-i_h.nsp,dataset/Laryngitis/speaker_1365/493-i_h.wav,train,16000,1.2103,m,1961-03-25,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_i_low,i,low,493/vowels/493-i_l.nsp,dataset/Laryngitis/speaker_1365/493-i_l.wav,train,16000,1.1122,m,1961-03-25,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_i_normal,i,normal,493/vowels/493-i_n.nsp,dataset/Laryngitis/speaker_1365/493-i_n.wav,train,16000,1.4401,m,1961-03-25,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_u_high,u,high,493/vowels/493-u_h.nsp,dataset/Laryngitis/speaker_1365/493-u_h.wav,train,16000,0.9886,m,1961-03-25,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_u_low,u,low,493/vowels/493-u_l.nsp,dataset/Laryngitis/speaker_1365/493-u_l.wav,train,16000,1.0552,m,1961-03-25,,Laryngitis
+1365,Laryngitis,493,sustained_vowel_u_normal,u,normal,493/vowels/493-u_n.nsp,dataset/Laryngitis/speaker_1365/493-u_n.wav,train,16000,1.3119,m,1961-03-25,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_a_high,a,high,497/vowels/497-a_h.nsp,dataset/Laryngitis/speaker_1368/497-a_h.wav,train,16000,1.8346,m,1958-10-11,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_a_low,a,low,497/vowels/497-a_l.nsp,dataset/Laryngitis/speaker_1368/497-a_l.wav,train,16000,1.4401,m,1958-10-11,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_a_normal,a,normal,497/vowels/497-a_n.nsp,dataset/Laryngitis/speaker_1368/497-a_n.wav,train,16000,1.9487,m,1958-10-11,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_i_high,i,high,497/vowels/497-i_h.nsp,dataset/Laryngitis/speaker_1368/497-i_h.wav,train,16000,2.0533,m,1958-10-11,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_i_low,i,low,497/vowels/497-i_l.nsp,dataset/Laryngitis/speaker_1368/497-i_l.wav,train,16000,1.8651,m,1958-10-11,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_i_normal,i,normal,497/vowels/497-i_n.nsp,dataset/Laryngitis/speaker_1368/497-i_n.wav,train,16000,1.7491,m,1958-10-11,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_u_high,u,high,497/vowels/497-u_h.nsp,dataset/Laryngitis/speaker_1368/497-u_h.wav,train,16000,1.8442,m,1958-10-11,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_u_low,u,low,497/vowels/497-u_l.nsp,dataset/Laryngitis/speaker_1368/497-u_l.wav,train,16000,1.6001,m,1958-10-11,,Laryngitis
+1368,Laryngitis,497,sustained_vowel_u_normal,u,normal,497/vowels/497-u_n.nsp,dataset/Laryngitis/speaker_1368/497-u_n.wav,train,16000,1.8537,m,1958-10-11,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_a_high,a,high,498/vowels/498-a_h.nsp,dataset/Laryngitis/speaker_1369/498-a_h.wav,train,16000,0.8936,w,1971-10-15,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_a_low,a,low,498/vowels/498-a_l.nsp,dataset/Laryngitis/speaker_1369/498-a_l.wav,train,16000,1.0267,w,1971-10-15,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_a_normal,a,normal,498/vowels/498-a_n.nsp,dataset/Laryngitis/speaker_1369/498-a_n.wav,train,16000,1.1218,w,1971-10-15,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_i_high,i,high,498/vowels/498-i_h.nsp,dataset/Laryngitis/speaker_1369/498-i_h.wav,train,16000,1.0457,w,1971-10-15,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_i_low,i,low,498/vowels/498-i_l.nsp,dataset/Laryngitis/speaker_1369/498-i_l.wav,train,16000,1.1883,w,1971-10-15,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_i_normal,i,normal,498/vowels/498-i_n.nsp,dataset/Laryngitis/speaker_1369/498-i_n.wav,train,16000,1.8441,w,1971-10-15,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_u_high,u,high,498/vowels/498-u_h.nsp,dataset/Laryngitis/speaker_1369/498-u_h.wav,train,16000,1.1218,w,1971-10-15,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_u_low,u,low,498/vowels/498-u_l.nsp,dataset/Laryngitis/speaker_1369/498-u_l.wav,train,16000,0.9791,w,1971-10-15,,Laryngitis
+1369,Laryngitis,498,sustained_vowel_u_normal,u,normal,498/vowels/498-u_n.nsp,dataset/Laryngitis/speaker_1369/498-u_n.wav,train,16000,1.0647,w,1971-10-15,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_a_high,a,high,563/vowels/563-a_h.nsp,dataset/Laryngitis/speaker_1378/563-a_h.wav,train,16000,0.9351,m,1969-08-07,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_a_low,a,low,563/vowels/563-a_l.nsp,dataset/Laryngitis/speaker_1378/563-a_l.wav,train,16000,1.8601,m,1969-08-07,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_a_normal,a,normal,563/vowels/563-a_n.nsp,dataset/Laryngitis/speaker_1378/563-a_n.wav,train,16000,1.0267,m,1969-08-07,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_i_high,i,high,563/vowels/563-i_h.nsp,dataset/Laryngitis/speaker_1378/563-i_h.wav,train,16000,1.1834,m,1969-08-07,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_i_low,i,low,563/vowels/563-i_l.nsp,dataset/Laryngitis/speaker_1378/563-i_l.wav,train,16000,1.3101,m,1969-08-07,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_i_normal,i,normal,563/vowels/563-i_n.nsp,dataset/Laryngitis/speaker_1378/563-i_n.wav,train,16000,1.597,m,1969-08-07,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_u_high,u,high,563/vowels/563-u_h.nsp,dataset/Laryngitis/speaker_1378/563-u_h.wav,train,16000,1.1201,m,1969-08-07,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_u_low,u,low,563/vowels/563-u_l.nsp,dataset/Laryngitis/speaker_1378/563-u_l.wav,train,16000,1.6247,m,1969-08-07,,Laryngitis
+1378,Laryngitis,563,sustained_vowel_u_normal,u,normal,563/vowels/563-u_n.nsp,dataset/Laryngitis/speaker_1378/563-u_n.wav,train,16000,1.8251,m,1969-08-07,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_a_high,a,high,568/vowels/568-a_h.nsp,dataset/Laryngitis/speaker_1379/568-a_h.wav,train,16000,1.3879,w,1939-01-10,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_a_low,a,low,568/vowels/568-a_l.nsp,dataset/Laryngitis/speaker_1379/568-a_l.wav,train,16000,1.1313,w,1939-01-10,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_a_normal,a,normal,568/vowels/568-a_n.nsp,dataset/Laryngitis/speaker_1379/568-a_n.wav,train,16000,1.9297,w,1939-01-10,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_i_high,i,high,568/vowels/568-i_h.nsp,dataset/Laryngitis/speaker_1379/568-i_h.wav,train,16000,1.3974,w,1939-01-10,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_i_low,i,low,568/vowels/568-i_l.nsp,dataset/Laryngitis/speaker_1379/568-i_l.wav,train,16000,1.3689,w,1939-01-10,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_i_normal,i,normal,568/vowels/568-i_n.nsp,dataset/Laryngitis/speaker_1379/568-i_n.wav,train,16000,1.8346,w,1939-01-10,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_u_high,u,high,568/vowels/568-u_h.nsp,dataset/Laryngitis/speaker_1379/568-u_h.wav,train,16000,1.4354,w,1939-01-10,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_u_low,u,low,568/vowels/568-u_l.nsp,dataset/Laryngitis/speaker_1379/568-u_l.wav,train,16000,1.0742,w,1939-01-10,,Laryngitis
+1379,Laryngitis,568,sustained_vowel_u_normal,u,normal,568/vowels/568-u_n.nsp,dataset/Laryngitis/speaker_1379/568-u_n.wav,train,16000,1.6351,w,1939-01-10,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_a_high,a,high,715/vowels/715-a_h.nsp,dataset/Laryngitis/speaker_1407/715-a_h.wav,train,16000,0.789,w,1934-09-11,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_a_low,a,low,715/vowels/715-a_l.nsp,dataset/Laryngitis/speaker_1407/715-a_l.wav,train,16000,0.5415,w,1934-09-11,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_a_normal,a,normal,715/vowels/715-a_n.nsp,dataset/Laryngitis/speaker_1407/715-a_n.wav,train,16000,0.789,w,1934-09-11,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_i_high,i,high,715/vowels/715-i_h.nsp,dataset/Laryngitis/speaker_1407/715-i_h.wav,train,16000,1.0076,w,1934-09-11,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_i_low,i,low,715/vowels/715-i_l.nsp,dataset/Laryngitis/speaker_1407/715-i_l.wav,train,16000,0.7605,w,1934-09-11,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_i_normal,i,normal,715/vowels/715-i_n.nsp,dataset/Laryngitis/speaker_1407/715-i_n.wav,train,16000,1.3118,w,1934-09-11,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_u_high,u,high,715/vowels/715-u_h.nsp,dataset/Laryngitis/speaker_1407/715-u_h.wav,train,16000,0.7225,w,1934-09-11,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_u_low,u,low,715/vowels/715-u_l.nsp,dataset/Laryngitis/speaker_1407/715-u_l.wav,train,16000,0.6559,w,1934-09-11,,Laryngitis
+1407,Laryngitis,715,sustained_vowel_u_normal,u,normal,715/vowels/715-u_n.nsp,dataset/Laryngitis/speaker_1407/715-u_n.wav,train,16000,0.8174,w,1934-09-11,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_a_high,a,high,819/vowels/819-a_h.nsp,dataset/Laryngitis/speaker_1431/819-a_h.wav,train,16000,1.9951,w,1960-02-17,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_a_low,a,low,819/vowels/819-a_l.nsp,dataset/Laryngitis/speaker_1431/819-a_l.wav,train,16000,1.8617,w,1960-02-17,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_a_normal,a,normal,819/vowels/819-a_n.nsp,dataset/Laryngitis/speaker_1431/819-a_n.wav,train,16000,1.8537,w,1960-02-17,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_i_high,i,high,819/vowels/819-i_h.nsp,dataset/Laryngitis/speaker_1431/819-i_h.wav,train,16000,1.9012,w,1960-02-17,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_i_low,i,low,819/vowels/819-i_l.nsp,dataset/Laryngitis/speaker_1431/819-i_l.wav,train,16000,1.8911,w,1960-02-17,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_i_normal,i,normal,819/vowels/819-i_n.nsp,dataset/Laryngitis/speaker_1431/819-i_n.wav,train,16000,1.9297,w,1960-02-17,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_u_high,u,high,819/vowels/819-u_h.nsp,dataset/Laryngitis/speaker_1431/819-u_h.wav,train,16000,1.1544,w,1960-02-17,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_u_low,u,low,819/vowels/819-u_l.nsp,dataset/Laryngitis/speaker_1431/819-u_l.wav,train,16000,1.6382,w,1960-02-17,,Laryngitis
+1431,Laryngitis,819,sustained_vowel_u_normal,u,normal,819/vowels/819-u_n.nsp,dataset/Laryngitis/speaker_1431/819-u_n.wav,train,16000,1.9202,w,1960-02-17,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_a_high,a,high,824/vowels/824-a_h.nsp,dataset/Laryngitis/speaker_1436/824-a_h.wav,train,16000,1.1601,m,1981-07-06,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_a_low,a,low,824/vowels/824-a_l.nsp,dataset/Laryngitis/speaker_1436/824-a_l.wav,train,16000,1.5199,m,1981-07-06,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_a_normal,a,normal,824/vowels/824-a_n.nsp,dataset/Laryngitis/speaker_1436/824-a_n.wav,train,16000,0.9696,m,1981-07-06,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_i_high,i,high,824/vowels/824-i_h.nsp,dataset/Laryngitis/speaker_1436/824-i_h.wav,train,16000,1.3852,m,1981-07-06,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_i_low,i,low,824/vowels/824-i_l.nsp,dataset/Laryngitis/speaker_1436/824-i_l.wav,train,16000,1.1221,m,1981-07-06,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_i_normal,i,normal,824/vowels/824-i_n.nsp,dataset/Laryngitis/speaker_1436/824-i_n.wav,train,16000,0.9696,m,1981-07-06,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_u_high,u,high,824/vowels/824-u_h.nsp,dataset/Laryngitis/speaker_1436/824-u_h.wav,train,16000,1.5245,m,1981-07-06,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_u_low,u,low,824/vowels/824-u_l.nsp,dataset/Laryngitis/speaker_1436/824-u_l.wav,train,16000,1.202,m,1981-07-06,,Laryngitis
+1436,Laryngitis,824,sustained_vowel_u_normal,u,normal,824/vowels/824-u_n.nsp,dataset/Laryngitis/speaker_1436/824-u_n.wav,train,16000,1.2263,m,1981-07-06,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_a_high,a,high,828/vowels/828-a_h.nsp,dataset/Laryngitis/speaker_1440/828-a_h.wav,train,16000,0.8841,w,1948-04-23,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_a_low,a,low,828/vowels/828-a_l.nsp,dataset/Laryngitis/speaker_1440/828-a_l.wav,train,16000,1.0602,w,1948-04-23,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_a_normal,a,normal,828/vowels/828-a_n.nsp,dataset/Laryngitis/speaker_1440/828-a_n.wav,train,16000,1.6731,w,1948-04-23,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_i_high,i,high,828/vowels/828-i_h.nsp,dataset/Laryngitis/speaker_1440/828-i_h.wav,train,16000,1.2168,w,1948-04-23,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_i_low,i,low,828/vowels/828-i_l.nsp,dataset/Laryngitis/speaker_1440/828-i_l.wav,train,16000,1.0701,w,1948-04-23,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_i_normal,i,normal,828/vowels/828-i_n.nsp,dataset/Laryngitis/speaker_1440/828-i_n.wav,train,16000,1.9392,w,1948-04-23,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_u_high,u,high,828/vowels/828-u_h.nsp,dataset/Laryngitis/speaker_1440/828-u_h.wav,train,16000,0.6464,w,1948-04-23,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_u_low,u,low,828/vowels/828-u_l.nsp,dataset/Laryngitis/speaker_1440/828-u_l.wav,train,16000,0.6274,w,1948-04-23,,Laryngitis
+1440,Laryngitis,828,sustained_vowel_u_normal,u,normal,828/vowels/828-u_n.nsp,dataset/Laryngitis/speaker_1440/828-u_n.wav,train,16000,0.9126,w,1948-04-23,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_a_high,a,high,844/vowels/844-a_h.nsp,dataset/Laryngitis/speaker_1443/844-a_h.wav,train,16000,0.7951,w,1985-10-16,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_a_low,a,low,844/vowels/844-a_l.nsp,dataset/Laryngitis/speaker_1443/844-a_l.wav,train,16000,0.6637,w,1985-10-16,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_a_normal,a,normal,844/vowels/844-a_n.nsp,dataset/Laryngitis/speaker_1443/844-a_n.wav,train,16000,0.7539,w,1985-10-16,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_i_high,i,high,844/vowels/844-i_h.nsp,dataset/Laryngitis/speaker_1443/844-i_h.wav,train,16000,0.9839,w,1985-10-16,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_i_low,i,low,844/vowels/844-i_l.nsp,dataset/Laryngitis/speaker_1443/844-i_l.wav,train,16000,0.8584,w,1985-10-16,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_i_normal,i,normal,844/vowels/844-i_n.nsp,dataset/Laryngitis/speaker_1443/844-i_n.wav,train,16000,0.8941,w,1985-10-16,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_u_high,u,high,844/vowels/844-u_h.nsp,dataset/Laryngitis/speaker_1443/844-u_h.wav,train,16000,0.732,w,1985-10-16,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_u_low,u,low,844/vowels/844-u_l.nsp,dataset/Laryngitis/speaker_1443/844-u_l.wav,train,16000,0.7151,w,1985-10-16,,Laryngitis
+1443,Laryngitis,844,sustained_vowel_u_normal,u,normal,844/vowels/844-u_n.nsp,dataset/Laryngitis/speaker_1443/844-u_n.wav,train,16000,0.7516,w,1985-10-16,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_a_high,a,high,871/vowels/871-a_h.nsp,dataset/Laryngitis/speaker_1467/871-a_h.wav,train,16000,1.5251,w,1939-04-11,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_a_low,a,low,871/vowels/871-a_l.nsp,dataset/Laryngitis/speaker_1467/871-a_l.wav,train,16000,0.7955,w,1939-04-11,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_a_normal,a,normal,871/vowels/871-a_n.nsp,dataset/Laryngitis/speaker_1467/871-a_n.wav,train,16000,1.8632,w,1939-04-11,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_i_high,i,high,871/vowels/871-i_h.nsp,dataset/Laryngitis/speaker_1467/871-i_h.wav,train,16000,1.9297,w,1939-04-11,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_i_low,i,low,871/vowels/871-i_l.nsp,dataset/Laryngitis/speaker_1467/871-i_l.wav,train,16000,1.3213,w,1939-04-11,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_i_normal,i,normal,871/vowels/871-i_n.nsp,dataset/Laryngitis/speaker_1467/871-i_n.wav,train,16000,1.1122,w,1939-04-11,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_u_high,u,high,871/vowels/871-u_h.nsp,dataset/Laryngitis/speaker_1467/871-u_h.wav,train,16000,1.5875,w,1939-04-11,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_u_low,u,low,871/vowels/871-u_l.nsp,dataset/Laryngitis/speaker_1467/871-u_l.wav,train,16000,1.6826,w,1939-04-11,,Laryngitis
+1467,Laryngitis,871,sustained_vowel_u_normal,u,normal,871/vowels/871-u_n.nsp,dataset/Laryngitis/speaker_1467/871-u_n.wav,train,16000,1.7776,w,1939-04-11,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_a_high,a,high,884/vowels/884-a_h.nsp,dataset/Laryngitis/speaker_1478/884-a_h.wav,val,16000,0.5229,m,1926-09-24,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_a_low,a,low,884/vowels/884-a_l.nsp,dataset/Laryngitis/speaker_1478/884-a_l.wav,val,16000,0.613,m,1926-09-24,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_a_normal,a,normal,884/vowels/884-a_n.nsp,dataset/Laryngitis/speaker_1478/884-a_n.wav,val,16000,0.8735,m,1926-09-24,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_i_high,i,high,884/vowels/884-i_h.nsp,dataset/Laryngitis/speaker_1478/884-i_h.wav,val,16000,0.8014,m,1926-09-24,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_i_low,i,low,884/vowels/884-i_l.nsp,dataset/Laryngitis/speaker_1478/884-i_l.wav,val,16000,0.8271,m,1926-09-24,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_i_normal,i,normal,884/vowels/884-i_n.nsp,dataset/Laryngitis/speaker_1478/884-i_n.wav,val,16000,0.8271,m,1926-09-24,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_u_high,u,high,884/vowels/884-u_h.nsp,dataset/Laryngitis/speaker_1478/884-u_h.wav,val,16000,0.9116,m,1926-09-24,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_u_low,u,low,884/vowels/884-u_l.nsp,dataset/Laryngitis/speaker_1478/884-u_l.wav,val,16000,0.5514,m,1926-09-24,,Laryngitis
+1478,Laryngitis,884,sustained_vowel_u_normal,u,normal,884/vowels/884-u_n.nsp,dataset/Laryngitis/speaker_1478/884-u_n.wav,val,16000,0.7847,m,1926-09-24,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_a_high,a,high,886/vowels/886-a_h.nsp,dataset/Laryngitis/speaker_1480/886-a_h.wav,val,16000,0.5324,w,1948-01-05,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_a_low,a,low,886/vowels/886-a_l.nsp,dataset/Laryngitis/speaker_1480/886-a_l.wav,val,16000,0.7415,w,1948-01-05,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_a_normal,a,normal,886/vowels/886-a_n.nsp,dataset/Laryngitis/speaker_1480/886-a_n.wav,val,16000,0.8054,w,1948-01-05,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_i_high,i,high,886/vowels/886-i_h.nsp,dataset/Laryngitis/speaker_1480/886-i_h.wav,val,16000,0.6014,w,1948-01-05,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_i_low,i,low,886/vowels/886-i_l.nsp,dataset/Laryngitis/speaker_1480/886-i_l.wav,val,16000,1.3499,w,1948-01-05,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_i_normal,i,normal,886/vowels/886-i_n.nsp,dataset/Laryngitis/speaker_1480/886-i_n.wav,val,16000,1.6671,w,1948-01-05,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_u_high,u,high,886/vowels/886-u_h.nsp,dataset/Laryngitis/speaker_1480/886-u_h.wav,val,16000,0.6836,w,1948-01-05,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_u_low,u,low,886/vowels/886-u_l.nsp,dataset/Laryngitis/speaker_1480/886-u_l.wav,val,16000,0.6749,w,1948-01-05,,Laryngitis
+1480,Laryngitis,886,sustained_vowel_u_normal,u,normal,886/vowels/886-u_n.nsp,dataset/Laryngitis/speaker_1480/886-u_n.wav,val,16000,1.0336,w,1948-01-05,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_a_high,a,high,902/vowels/902-a_h.nsp,dataset/Laryngitis/speaker_1495/902-a_h.wav,val,16000,0.5337,m,1929-12-01,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_a_low,a,low,902/vowels/902-a_l.nsp,dataset/Laryngitis/speaker_1495/902-a_l.wav,val,16000,0.8394,m,1929-12-01,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_a_normal,a,normal,902/vowels/902-a_n.nsp,dataset/Laryngitis/speaker_1495/902-a_n.wav,val,16000,0.8413,m,1929-12-01,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_i_high,i,high,902/vowels/902-i_h.nsp,dataset/Laryngitis/speaker_1495/902-i_h.wav,val,16000,1.1478,m,1929-12-01,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_i_low,i,low,902/vowels/902-i_l.nsp,dataset/Laryngitis/speaker_1495/902-i_l.wav,val,16000,1.0901,m,1929-12-01,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_i_normal,i,normal,902/vowels/902-i_n.nsp,dataset/Laryngitis/speaker_1495/902-i_n.wav,val,16000,1.7041,m,1929-12-01,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_u_high,u,high,902/vowels/902-u_h.nsp,dataset/Laryngitis/speaker_1495/902-u_h.wav,val,16000,1.3901,m,1929-12-01,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_u_low,u,low,902/vowels/902-u_l.nsp,dataset/Laryngitis/speaker_1495/902-u_l.wav,val,16000,0.8501,m,1929-12-01,,Laryngitis
+1495,Laryngitis,902,sustained_vowel_u_normal,u,normal,902/vowels/902-u_n.nsp,dataset/Laryngitis/speaker_1495/902-u_n.wav,val,16000,1.4601,m,1929-12-01,,Laryngitis
+2191,Laryngozele,1981,sustained_vowel_a_high,a,high,1981/vowels/1981-a_h.nsp,dataset/Laryngozele/speaker_2191/1981-a_h.wav,test,16000,1.2105,m,1937-06-17,,Laryngozele
+2191,Laryngozele,1981,sustained_vowel_a_low,a,low,1981/vowels/1981-a_l.nsp,dataset/Laryngozele/speaker_2191/1981-a_l.wav,test,16000,1.1752,m,1937-06-17,,Laryngozele
+2191,Laryngozele,1981,sustained_vowel_a_normal,a,normal,1981/vowels/1981-a_n.nsp,dataset/Laryngozele/speaker_2191/1981-a_n.wav,test,16000,1.4629,m,1937-06-17,,Laryngozele
+2191,Laryngozele,1981,sustained_vowel_i_high,i,high,1981/vowels/1981-i_h.nsp,dataset/Laryngozele/speaker_2191/1981-i_h.wav,test,16000,1.2989,m,1937-06-17,,Laryngozele
+2191,Laryngozele,1981,sustained_vowel_i_low,i,low,1981/vowels/1981-i_l.nsp,dataset/Laryngozele/speaker_2191/1981-i_l.wav,test,16000,1.4121,m,1937-06-17,,Laryngozele
+2191,Laryngozele,1981,sustained_vowel_i_normal,i,normal,1981/vowels/1981-i_n.nsp,dataset/Laryngozele/speaker_2191/1981-i_n.wav,test,16000,1.5862,m,1937-06-17,,Laryngozele
+2191,Laryngozele,1981,sustained_vowel_u_high,u,high,1981/vowels/1981-u_h.nsp,dataset/Laryngozele/speaker_2191/1981-u_h.wav,test,16000,1.2501,m,1937-06-17,,Laryngozele
+2191,Laryngozele,1981,sustained_vowel_u_low,u,low,1981/vowels/1981-u_l.nsp,dataset/Laryngozele/speaker_2191/1981-u_l.wav,test,16000,1.8206,m,1937-06-17,,Laryngozele
+2191,Laryngozele,1981,sustained_vowel_u_normal,u,normal,1981/vowels/1981-u_n.nsp,dataset/Laryngozele/speaker_2191/1981-u_n.wav,test,16000,0.927,m,1937-06-17,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_a_high,a,high,1205/vowels/1205-a_h.nsp,dataset/Laryngozele/speaker_1602/1205-a_h.wav,train,16000,1.1299,m,1952-01-16,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_a_low,a,low,1205/vowels/1205-a_l.nsp,dataset/Laryngozele/speaker_1602/1205-a_l.wav,train,16000,0.9551,m,1952-01-16,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_a_normal,a,normal,1205/vowels/1205-a_n.nsp,dataset/Laryngozele/speaker_1602/1205-a_n.wav,train,16000,0.887,m,1952-01-16,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_i_high,i,high,1205/vowels/1205-i_h.nsp,dataset/Laryngozele/speaker_1602/1205-i_h.wav,train,16000,1.1346,m,1952-01-16,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_i_low,i,low,1205/vowels/1205-i_l.nsp,dataset/Laryngozele/speaker_1602/1205-i_l.wav,train,16000,1.5401,m,1952-01-16,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_i_normal,i,normal,1205/vowels/1205-i_n.nsp,dataset/Laryngozele/speaker_1602/1205-i_n.wav,train,16000,1.2699,m,1952-01-16,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_u_high,u,high,1205/vowels/1205-u_h.nsp,dataset/Laryngozele/speaker_1602/1205-u_h.wav,train,16000,1.4101,m,1952-01-16,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_u_low,u,low,1205/vowels/1205-u_l.nsp,dataset/Laryngozele/speaker_1602/1205-u_l.wav,train,16000,0.6951,m,1952-01-16,,Laryngozele
+1602,Laryngozele,1205,sustained_vowel_u_normal,u,normal,1205/vowels/1205-u_n.nsp,dataset/Laryngozele/speaker_1602/1205-u_n.wav,train,16000,1.1284,m,1952-01-16,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_a_high,a,high,1449/vowels/1449-a_h.nsp,dataset/Laryngozele/speaker_1633/1449-a_h.wav,train,16000,1.1313,m,1956-07-13,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_a_low,a,low,1449/vowels/1449-a_l.nsp,dataset/Laryngozele/speaker_1633/1449-a_l.wav,train,16000,1.1217,m,1956-07-13,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_a_normal,a,normal,1449/vowels/1449-a_n.nsp,dataset/Laryngozele/speaker_1633/1449-a_n.wav,train,16000,1.8537,m,1956-07-13,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_i_high,i,high,1449/vowels/1449-i_h.nsp,dataset/Laryngozele/speaker_1633/1449-i_h.wav,train,16000,1.5114,m,1956-07-13,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_i_low,i,low,1449/vowels/1449-i_l.nsp,dataset/Laryngozele/speaker_1633/1449-i_l.wav,train,16000,0.9343,m,1956-07-13,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_i_normal,i,normal,1449/vowels/1449-i_n.nsp,dataset/Laryngozele/speaker_1633/1449-i_n.wav,train,16000,1.6541,m,1956-07-13,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_u_high,u,high,1449/vowels/1449-u_h.nsp,dataset/Laryngozele/speaker_1633/1449-u_h.wav,train,16000,1.0615,m,1956-07-13,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_u_low,u,low,1449/vowels/1449-u_l.nsp,dataset/Laryngozele/speaker_1633/1449-u_l.wav,train,16000,1.0126,m,1956-07-13,,Laryngozele
+1633,Laryngozele,1449,sustained_vowel_u_normal,u,normal,1449/vowels/1449-u_n.nsp,dataset/Laryngozele/speaker_1633/1449-u_n.wav,train,16000,1.0076,m,1956-07-13,,Laryngozele
+20,Normal,19,sustained_vowel_a_high,a,high,19/vowels/19-a_h.nsp,dataset/Normal/speaker_20/19-a_h.wav,test,16000,3.4316,w,1974-06-22,,Normal
+20,Normal,19,sustained_vowel_a_low,a,low,19/vowels/19-a_l.nsp,dataset/Normal/speaker_20/19-a_l.wav,test,16000,2.0341,w,1974-06-22,,Normal
+20,Normal,19,sustained_vowel_a_normal,a,normal,19/vowels/19-a_n.nsp,dataset/Normal/speaker_20/19-a_n.wav,test,16000,4.3901,w,1974-06-22,,Normal
+20,Normal,19,sustained_vowel_i_high,i,high,19/vowels/19-i_h.nsp,dataset/Normal/speaker_20/19-i_h.wav,test,16000,2.1293,w,1974-06-22,,Normal
+20,Normal,19,sustained_vowel_i_low,i,low,19/vowels/19-i_l.nsp,dataset/Normal/speaker_20/19-i_l.wav,test,16000,1.7401,w,1974-06-22,,Normal
+20,Normal,19,sustained_vowel_i_normal,i,normal,19/vowels/19-i_n.nsp,dataset/Normal/speaker_20/19-i_n.wav,test,16000,4.5248,w,1974-06-22,,Normal
+20,Normal,19,sustained_vowel_u_high,u,high,19/vowels/19-u_h.nsp,dataset/Normal/speaker_20/19-u_h.wav,test,16000,1.8651,w,1974-06-22,,Normal
+20,Normal,19,sustained_vowel_u_low,u,low,19/vowels/19-u_l.nsp,dataset/Normal/speaker_20/19-u_l.wav,test,16000,1.4771,w,1974-06-22,,Normal
+20,Normal,19,sustained_vowel_u_normal,u,normal,19/vowels/19-u_n.nsp,dataset/Normal/speaker_20/19-u_n.wav,test,16000,3.4411,w,1974-06-22,,Normal
+21,Normal,20,sustained_vowel_a_high,a,high,20/vowels/20-a_h.nsp,dataset/Normal/speaker_21/20-a_h.wav,test,16000,1.6445,w,1976-05-26,,Normal
+21,Normal,20,sustained_vowel_a_low,a,low,20/vowels/20-a_l.nsp,dataset/Normal/speaker_21/20-a_l.wav,test,16000,0.519,w,1976-05-26,,Normal
+21,Normal,20,sustained_vowel_a_normal,a,normal,20/vowels/20-a_n.nsp,dataset/Normal/speaker_21/20-a_n.wav,test,16000,1.8091,w,1976-05-26,,Normal
+21,Normal,20,sustained_vowel_i_high,i,high,20/vowels/20-i_h.nsp,dataset/Normal/speaker_21/20-i_h.wav,test,16000,1.9868,w,1976-05-26,,Normal
+21,Normal,20,sustained_vowel_i_low,i,low,20/vowels/20-i_l.nsp,dataset/Normal/speaker_21/20-i_l.wav,test,16000,1.4238,w,1976-05-26,,Normal
+21,Normal,20,sustained_vowel_i_normal,i,normal,20/vowels/20-i_n.nsp,dataset/Normal/speaker_21/20-i_n.wav,test,16000,1.9772,w,1976-05-26,,Normal
+21,Normal,20,sustained_vowel_u_high,u,high,20/vowels/20-u_h.nsp,dataset/Normal/speaker_21/20-u_h.wav,test,16000,1.7351,w,1976-05-26,,Normal
+21,Normal,20,sustained_vowel_u_low,u,low,20/vowels/20-u_l.nsp,dataset/Normal/speaker_21/20-u_l.wav,test,16000,1.3928,w,1976-05-26,,Normal
+21,Normal,20,sustained_vowel_u_normal,u,normal,20/vowels/20-u_n.nsp,dataset/Normal/speaker_21/20-u_n.wav,test,16000,1.8201,w,1976-05-26,,Normal
+26,Normal,18,sustained_vowel_a_high,a,high,18/vowels/18-a_h.nsp,dataset/Normal/speaker_26/18-a_h.wav,test,16000,0.6749,w,1977-05-20,,Normal
+26,Normal,18,sustained_vowel_a_low,a,low,18/vowels/18-a_l.nsp,dataset/Normal/speaker_26/18-a_l.wav,test,16000,0.8651,w,1977-05-20,,Normal
+26,Normal,18,sustained_vowel_a_normal,a,normal,18/vowels/18-a_n.nsp,dataset/Normal/speaker_26/18-a_n.wav,test,16000,0.6518,w,1977-05-20,,Normal
+26,Normal,18,sustained_vowel_i_high,i,high,18/vowels/18-i_h.nsp,dataset/Normal/speaker_26/18-i_h.wav,test,16000,0.5989,w,1977-05-20,,Normal
+26,Normal,18,sustained_vowel_i_low,i,low,18/vowels/18-i_l.nsp,dataset/Normal/speaker_26/18-i_l.wav,test,16000,0.6844,w,1977-05-20,,Normal
+26,Normal,18,sustained_vowel_i_normal,i,normal,18/vowels/18-i_n.nsp,dataset/Normal/speaker_26/18-i_n.wav,test,16000,0.8536,w,1977-05-20,,Normal
+26,Normal,18,sustained_vowel_u_high,u,high,18/vowels/18-u_h.nsp,dataset/Normal/speaker_26/18-u_h.wav,test,16000,0.5269,w,1977-05-20,,Normal
+26,Normal,18,sustained_vowel_u_low,u,low,18/vowels/18-u_l.nsp,dataset/Normal/speaker_26/18-u_l.wav,test,16000,0.5051,w,1977-05-20,,Normal
+26,Normal,18,sustained_vowel_u_normal,u,normal,18/vowels/18-u_n.nsp,dataset/Normal/speaker_26/18-u_n.wav,test,16000,0.8237,w,1977-05-20,,Normal
+1,Normal,1,sustained_vowel_a_high,a,high,1/vowels/1-a_h.nsp,dataset/Normal/speaker_1/1-a_h.wav,train,16000,1.9936,w,1977-04-07,,Normal
+1,Normal,1,sustained_vowel_a_low,a,low,1/vowels/1-a_l.nsp,dataset/Normal/speaker_1/1-a_l.wav,train,16000,1.9337,w,1977-04-07,,Normal
+1,Normal,1,sustained_vowel_a_normal,a,normal,1/vowels/1-a_n.nsp,dataset/Normal/speaker_1/1-a_n.wav,train,16000,1.9484,w,1977-04-07,,Normal
+1,Normal,1,sustained_vowel_i_high,i,high,1/vowels/1-i_h.nsp,dataset/Normal/speaker_1/1-i_h.wav,train,16000,0.6232,w,1977-04-07,,Normal
+1,Normal,1,sustained_vowel_i_low,i,low,1/vowels/1-i_l.nsp,dataset/Normal/speaker_1/1-i_l.wav,train,16000,1.9024,w,1977-04-07,,Normal
+1,Normal,1,sustained_vowel_i_normal,i,normal,1/vowels/1-i_n.nsp,dataset/Normal/speaker_1/1-i_n.wav,train,16000,1.7001,w,1977-04-07,,Normal
+1,Normal,1,sustained_vowel_u_high,u,high,1/vowels/1-u_h.nsp,dataset/Normal/speaker_1/1-u_h.wav,train,16000,1.9984,w,1977-04-07,,Normal
+1,Normal,1,sustained_vowel_u_low,u,low,1/vowels/1-u_l.nsp,dataset/Normal/speaker_1/1-u_l.wav,train,16000,1.385,w,1977-04-07,,Normal
+1,Normal,1,sustained_vowel_u_normal,u,normal,1/vowels/1-u_n.nsp,dataset/Normal/speaker_1/1-u_n.wav,train,16000,1.7001,w,1977-04-07,,Normal
+2,Normal,2,sustained_vowel_a_high,a,high,2/vowels/2-a_h.nsp,dataset/Normal/speaker_2/2-a_h.wav,train,16000,0.9922,w,1974-12-28,,Normal
+2,Normal,2,sustained_vowel_a_low,a,low,2/vowels/2-a_l.nsp,dataset/Normal/speaker_2/2-a_l.wav,train,16000,0.5334,w,1974-12-28,,Normal
+2,Normal,2,sustained_vowel_a_normal,a,normal,2/vowels/2-a_n.nsp,dataset/Normal/speaker_2/2-a_n.wav,train,16000,0.7617,w,1974-12-28,,Normal
+2,Normal,2,sustained_vowel_i_high,i,high,2/vowels/2-i_h.nsp,dataset/Normal/speaker_2/2-i_h.wav,train,16000,1.418,w,1974-12-28,,Normal
+2,Normal,2,sustained_vowel_i_low,i,low,2/vowels/2-i_l.nsp,dataset/Normal/speaker_2/2-i_l.wav,train,16000,1.0881,w,1974-12-28,,Normal
+2,Normal,2,sustained_vowel_i_normal,i,normal,2/vowels/2-i_n.nsp,dataset/Normal/speaker_2/2-i_n.wav,train,16000,1.4679,w,1974-12-28,,Normal
+2,Normal,2,sustained_vowel_u_high,u,high,2/vowels/2-u_h.nsp,dataset/Normal/speaker_2/2-u_h.wav,train,16000,0.9801,w,1974-12-28,,Normal
+2,Normal,2,sustained_vowel_u_low,u,low,2/vowels/2-u_l.nsp,dataset/Normal/speaker_2/2-u_l.wav,train,16000,0.5177,w,1974-12-28,,Normal
+2,Normal,2,sustained_vowel_u_normal,u,normal,2/vowels/2-u_n.nsp,dataset/Normal/speaker_2/2-u_n.wav,train,16000,1.2123,w,1974-12-28,,Normal
+3,Normal,3,sustained_vowel_a_high,a,high,3/vowels/3-a_h.nsp,dataset/Normal/speaker_3/3-a_h.wav,train,16000,0.5384,w,1974-03-29,,Normal
+3,Normal,3,sustained_vowel_a_low,a,low,3/vowels/3-a_l.nsp,dataset/Normal/speaker_3/3-a_l.wav,train,16000,1.1327,w,1974-03-29,,Normal
+3,Normal,3,sustained_vowel_a_normal,a,normal,3/vowels/3-a_n.nsp,dataset/Normal/speaker_3/3-a_n.wav,train,16000,1.1327,w,1974-03-29,,Normal
+3,Normal,3,sustained_vowel_i_high,i,high,3/vowels/3-i_h.nsp,dataset/Normal/speaker_3/3-i_h.wav,train,16000,1.0166,w,1974-03-29,,Normal
+3,Normal,3,sustained_vowel_i_low,i,low,3/vowels/3-i_l.nsp,dataset/Normal/speaker_3/3-i_l.wav,train,16000,1.1451,w,1974-03-29,,Normal
+3,Normal,3,sustained_vowel_i_normal,i,normal,3/vowels/3-i_n.nsp,dataset/Normal/speaker_3/3-i_n.wav,train,16000,1.4479,w,1974-03-29,,Normal
+3,Normal,3,sustained_vowel_u_high,u,high,3/vowels/3-u_h.nsp,dataset/Normal/speaker_3/3-u_h.wav,train,16000,1.1101,w,1974-03-29,,Normal
+3,Normal,3,sustained_vowel_u_low,u,low,3/vowels/3-u_l.nsp,dataset/Normal/speaker_3/3-u_l.wav,train,16000,0.9201,w,1974-03-29,,Normal
+3,Normal,3,sustained_vowel_u_normal,u,normal,3/vowels/3-u_n.nsp,dataset/Normal/speaker_3/3-u_n.wav,train,16000,0.9253,w,1974-03-29,,Normal
+4,Normal,4,sustained_vowel_a_high,a,high,4/vowels/4-a_h.nsp,dataset/Normal/speaker_4/4-a_h.wav,train,16000,1.6711,m,1975-07-08,,Normal
+4,Normal,4,sustained_vowel_a_low,a,low,4/vowels/4-a_l.nsp,dataset/Normal/speaker_4/4-a_l.wav,train,16000,1.562,m,1975-07-08,,Normal
+4,Normal,4,sustained_vowel_a_normal,a,normal,4/vowels/4-a_n.nsp,dataset/Normal/speaker_4/4-a_n.wav,train,16000,1.7476,m,1975-07-08,,Normal
+4,Normal,4,sustained_vowel_i_high,i,high,4/vowels/4-i_h.nsp,dataset/Normal/speaker_4/4-i_h.wav,train,16000,1.9266,m,1975-07-08,,Normal
+4,Normal,4,sustained_vowel_i_low,i,low,4/vowels/4-i_l.nsp,dataset/Normal/speaker_4/4-i_l.wav,train,16000,1.8968,m,1975-07-08,,Normal
+4,Normal,4,sustained_vowel_i_normal,i,normal,4/vowels/4-i_n.nsp,dataset/Normal/speaker_4/4-i_n.wav,train,16000,1.5951,m,1975-07-08,,Normal
+4,Normal,4,sustained_vowel_u_high,u,high,4/vowels/4-u_h.nsp,dataset/Normal/speaker_4/4-u_h.wav,train,16000,1.5312,m,1975-07-08,,Normal
+4,Normal,4,sustained_vowel_u_low,u,low,4/vowels/4-u_l.nsp,dataset/Normal/speaker_4/4-u_l.wav,train,16000,1.8701,m,1975-07-08,,Normal
+4,Normal,4,sustained_vowel_u_normal,u,normal,4/vowels/4-u_n.nsp,dataset/Normal/speaker_4/4-u_n.wav,train,16000,1.5951,m,1975-07-08,,Normal
+5,Normal,5,sustained_vowel_a_high,a,high,5/vowels/5-a_h.nsp,dataset/Normal/speaker_5/5-a_h.wav,train,16000,1.2256,m,1975-09-01,,Normal
+5,Normal,5,sustained_vowel_a_low,a,low,5/vowels/5-a_l.nsp,dataset/Normal/speaker_5/5-a_l.wav,train,16000,1.6995,m,1975-09-01,,Normal
+5,Normal,5,sustained_vowel_a_normal,a,normal,5/vowels/5-a_n.nsp,dataset/Normal/speaker_5/5-a_n.wav,train,16000,1.3506,m,1975-09-01,,Normal
+5,Normal,5,sustained_vowel_i_high,i,high,5/vowels/5-i_h.nsp,dataset/Normal/speaker_5/5-i_h.wav,train,16000,1.1832,m,1975-09-01,,Normal
+5,Normal,5,sustained_vowel_i_low,i,low,5/vowels/5-i_l.nsp,dataset/Normal/speaker_5/5-i_l.wav,train,16000,1.4678,m,1975-09-01,,Normal
+5,Normal,5,sustained_vowel_i_normal,i,normal,5/vowels/5-i_n.nsp,dataset/Normal/speaker_5/5-i_n.wav,train,16000,1.5693,m,1975-09-01,,Normal
+5,Normal,5,sustained_vowel_u_high,u,high,5/vowels/5-u_h.nsp,dataset/Normal/speaker_5/5-u_h.wav,train,16000,1.1301,m,1975-09-01,,Normal
+5,Normal,5,sustained_vowel_u_low,u,low,5/vowels/5-u_l.nsp,dataset/Normal/speaker_5/5-u_l.wav,train,16000,1.5693,m,1975-09-01,,Normal
+5,Normal,5,sustained_vowel_u_normal,u,normal,5/vowels/5-u_n.nsp,dataset/Normal/speaker_5/5-u_n.wav,train,16000,1.2453,m,1975-09-01,,Normal
+6,Normal,6,sustained_vowel_a_high,a,high,6/vowels/6-a_h.nsp,dataset/Normal/speaker_6/6-a_h.wav,train,16000,0.6289,w,1977-06-08,,Normal
+6,Normal,6,sustained_vowel_a_low,a,low,6/vowels/6-a_l.nsp,dataset/Normal/speaker_6/6-a_l.wav,train,16000,0.8946,w,1977-06-08,,Normal
+6,Normal,6,sustained_vowel_a_normal,a,normal,6/vowels/6-a_n.nsp,dataset/Normal/speaker_6/6-a_n.wav,train,16000,0.802,w,1977-06-08,,Normal
+6,Normal,6,sustained_vowel_i_high,i,high,6/vowels/6-i_h.nsp,dataset/Normal/speaker_6/6-i_h.wav,train,16000,1.1801,w,1977-06-08,,Normal
+6,Normal,6,sustained_vowel_i_low,i,low,6/vowels/6-i_l.nsp,dataset/Normal/speaker_6/6-i_l.wav,train,16000,0.9741,w,1977-06-08,,Normal
+6,Normal,6,sustained_vowel_i_normal,i,normal,6/vowels/6-i_n.nsp,dataset/Normal/speaker_6/6-i_n.wav,train,16000,1.0381,w,1977-06-08,,Normal
+6,Normal,6,sustained_vowel_u_high,u,high,6/vowels/6-u_h.nsp,dataset/Normal/speaker_6/6-u_h.wav,train,16000,0.9029,w,1977-06-08,,Normal
+6,Normal,6,sustained_vowel_u_low,u,low,6/vowels/6-u_l.nsp,dataset/Normal/speaker_6/6-u_l.wav,train,16000,1.0935,w,1977-06-08,,Normal
+6,Normal,6,sustained_vowel_u_normal,u,normal,6/vowels/6-u_n.nsp,dataset/Normal/speaker_6/6-u_n.wav,train,16000,1.0323,w,1977-06-08,,Normal
+7,Normal,7,sustained_vowel_a_high,a,high,7/vowels/7-a_h.nsp,dataset/Normal/speaker_7/7-a_h.wav,train,16000,1.0448,w,1978-02-14,,Normal
+7,Normal,7,sustained_vowel_a_low,a,low,7/vowels/7-a_l.nsp,dataset/Normal/speaker_7/7-a_l.wav,train,16000,1.0045,w,1978-02-14,,Normal
+7,Normal,7,sustained_vowel_a_normal,a,normal,7/vowels/7-a_n.nsp,dataset/Normal/speaker_7/7-a_n.wav,train,16000,1.0045,w,1978-02-14,,Normal
+7,Normal,7,sustained_vowel_i_high,i,high,7/vowels/7-i_h.nsp,dataset/Normal/speaker_7/7-i_h.wav,train,16000,0.8896,w,1978-02-14,,Normal
+7,Normal,7,sustained_vowel_i_low,i,low,7/vowels/7-i_l.nsp,dataset/Normal/speaker_7/7-i_l.wav,train,16000,0.8365,w,1978-02-14,,Normal
+7,Normal,7,sustained_vowel_i_normal,i,normal,7/vowels/7-i_n.nsp,dataset/Normal/speaker_7/7-i_n.wav,train,16000,0.8365,w,1978-02-14,,Normal
+7,Normal,7,sustained_vowel_u_high,u,high,7/vowels/7-u_h.nsp,dataset/Normal/speaker_7/7-u_h.wav,train,16000,1.1161,w,1978-02-14,,Normal
+7,Normal,7,sustained_vowel_u_low,u,low,7/vowels/7-u_l.nsp,dataset/Normal/speaker_7/7-u_l.wav,train,16000,1.1161,w,1978-02-14,,Normal
+7,Normal,7,sustained_vowel_u_normal,u,normal,7/vowels/7-u_n.nsp,dataset/Normal/speaker_7/7-u_n.wav,train,16000,1.1161,w,1978-02-14,,Normal
+10,Normal,8,sustained_vowel_a_high,a,high,8/vowels/8-a_h.nsp,dataset/Normal/speaker_10/8-a_h.wav,train,16000,0.9506,w,1978-05-11,,Normal
+10,Normal,8,sustained_vowel_a_low,a,low,8/vowels/8-a_l.nsp,dataset/Normal/speaker_10/8-a_l.wav,train,16000,0.9506,w,1978-05-11,,Normal
+10,Normal,8,sustained_vowel_a_normal,a,normal,8/vowels/8-a_n.nsp,dataset/Normal/speaker_10/8-a_n.wav,train,16000,0.9506,w,1978-05-11,,Normal
+10,Normal,8,sustained_vowel_i_high,i,high,8/vowels/8-i_h.nsp,dataset/Normal/speaker_10/8-i_h.wav,train,16000,1.2196,w,1978-05-11,,Normal
+10,Normal,8,sustained_vowel_i_low,i,low,8/vowels/8-i_l.nsp,dataset/Normal/speaker_10/8-i_l.wav,train,16000,0.9101,w,1978-05-11,,Normal
+10,Normal,8,sustained_vowel_i_normal,i,normal,8/vowels/8-i_n.nsp,dataset/Normal/speaker_10/8-i_n.wav,train,16000,1.0751,w,1978-05-11,,Normal
+10,Normal,8,sustained_vowel_u_high,u,high,8/vowels/8-u_h.nsp,dataset/Normal/speaker_10/8-u_h.wav,train,16000,1.226,w,1978-05-11,,Normal
+10,Normal,8,sustained_vowel_u_low,u,low,8/vowels/8-u_l.nsp,dataset/Normal/speaker_10/8-u_l.wav,train,16000,0.9051,w,1978-05-11,,Normal
+10,Normal,8,sustained_vowel_u_normal,u,normal,8/vowels/8-u_n.nsp,dataset/Normal/speaker_10/8-u_n.wav,train,16000,1.1451,w,1978-05-11,,Normal
+11,Normal,9,sustained_vowel_a_high,a,high,9/vowels/9-a_h.nsp,dataset/Normal/speaker_11/9-a_h.wav,train,16000,2.1484,m,1972-10-23,,Normal
+11,Normal,9,sustained_vowel_a_low,a,low,9/vowels/9-a_l.nsp,dataset/Normal/speaker_11/9-a_l.wav,train,16000,0.8382,m,1972-10-23,,Normal
+11,Normal,9,sustained_vowel_a_normal,a,normal,9/vowels/9-a_n.nsp,dataset/Normal/speaker_11/9-a_n.wav,train,16000,0.8382,m,1972-10-23,,Normal
+11,Normal,9,sustained_vowel_i_high,i,high,9/vowels/9-i_h.nsp,dataset/Normal/speaker_11/9-i_h.wav,train,16000,2.2901,m,1972-10-23,,Normal
+11,Normal,9,sustained_vowel_i_low,i,low,9/vowels/9-i_l.nsp,dataset/Normal/speaker_11/9-i_l.wav,train,16000,2.1484,m,1972-10-23,,Normal
+11,Normal,9,sustained_vowel_i_normal,i,normal,9/vowels/9-i_n.nsp,dataset/Normal/speaker_11/9-i_n.wav,train,16000,2.9849,m,1972-10-23,,Normal
+11,Normal,9,sustained_vowel_u_high,u,high,9/vowels/9-u_h.nsp,dataset/Normal/speaker_11/9-u_h.wav,train,16000,2.386,m,1972-10-23,,Normal
+11,Normal,9,sustained_vowel_u_low,u,low,9/vowels/9-u_l.nsp,dataset/Normal/speaker_11/9-u_l.wav,train,16000,1.8536,m,1972-10-23,,Normal
+11,Normal,9,sustained_vowel_u_normal,u,normal,9/vowels/9-u_n.nsp,dataset/Normal/speaker_11/9-u_n.wav,train,16000,2.8327,m,1972-10-23,,Normal
+12,Normal,10,sustained_vowel_a_high,a,high,10/vowels/10-a_h.nsp,dataset/Normal/speaker_12/10-a_h.wav,train,16000,1.4544,w,1975-07-07,,Normal
+12,Normal,10,sustained_vowel_a_low,a,low,10/vowels/10-a_l.nsp,dataset/Normal/speaker_12/10-a_l.wav,train,16000,1.6445,w,1975-07-07,,Normal
+12,Normal,10,sustained_vowel_a_normal,a,normal,10/vowels/10-a_n.nsp,dataset/Normal/speaker_12/10-a_n.wav,train,16000,2.1103,w,1975-07-07,,Normal
+12,Normal,10,sustained_vowel_i_high,i,high,10/vowels/10-i_h.nsp,dataset/Normal/speaker_12/10-i_h.wav,train,16000,1.597,w,1975-07-07,,Normal
+12,Normal,10,sustained_vowel_i_low,i,low,10/vowels/10-i_l.nsp,dataset/Normal/speaker_12/10-i_l.wav,train,16000,1.7016,w,1975-07-07,,Normal
+12,Normal,10,sustained_vowel_i_normal,i,normal,10/vowels/10-i_n.nsp,dataset/Normal/speaker_12/10-i_n.wav,train,16000,2.0712,w,1975-07-07,,Normal
+12,Normal,10,sustained_vowel_u_high,u,high,10/vowels/10-u_h.nsp,dataset/Normal/speaker_12/10-u_h.wav,train,16000,2.0913,w,1975-07-07,,Normal
+12,Normal,10,sustained_vowel_u_low,u,low,10/vowels/10-u_l.nsp,dataset/Normal/speaker_12/10-u_l.wav,train,16000,2.1388,w,1975-07-07,,Normal
+12,Normal,10,sustained_vowel_u_normal,u,normal,10/vowels/10-u_n.nsp,dataset/Normal/speaker_12/10-u_n.wav,train,16000,2.1293,w,1975-07-07,,Normal
+13,Normal,11,sustained_vowel_a_high,a,high,11/vowels/11-a_h.nsp,dataset/Normal/speaker_13/11-a_h.wav,train,16000,0.9409,m,1974-10-30,,Normal
+13,Normal,11,sustained_vowel_a_low,a,low,11/vowels/11-a_l.nsp,dataset/Normal/speaker_13/11-a_l.wav,train,16000,1.0379,m,1974-10-30,,Normal
+13,Normal,11,sustained_vowel_a_normal,a,normal,11/vowels/11-a_n.nsp,dataset/Normal/speaker_13/11-a_n.wav,train,16000,1.1094,m,1974-10-30,,Normal
+13,Normal,11,sustained_vowel_i_high,i,high,11/vowels/11-i_h.nsp,dataset/Normal/speaker_13/11-i_h.wav,train,16000,0.8779,m,1974-10-30,,Normal
+13,Normal,11,sustained_vowel_i_low,i,low,11/vowels/11-i_l.nsp,dataset/Normal/speaker_13/11-i_l.wav,train,16000,1.6813,m,1974-10-30,,Normal
+13,Normal,11,sustained_vowel_i_normal,i,normal,11/vowels/11-i_n.nsp,dataset/Normal/speaker_13/11-i_n.wav,train,16000,1.9351,m,1974-10-30,,Normal
+13,Normal,11,sustained_vowel_u_high,u,high,11/vowels/11-u_h.nsp,dataset/Normal/speaker_13/11-u_h.wav,train,16000,0.8015,m,1974-10-30,,Normal
+13,Normal,11,sustained_vowel_u_low,u,low,11/vowels/11-u_l.nsp,dataset/Normal/speaker_13/11-u_l.wav,train,16000,0.7851,m,1974-10-30,,Normal
+13,Normal,11,sustained_vowel_u_normal,u,normal,11/vowels/11-u_n.nsp,dataset/Normal/speaker_13/11-u_n.wav,train,16000,1.4087,m,1974-10-30,,Normal
+14,Normal,12,sustained_vowel_a_high,a,high,12/vowels/12-a_h.nsp,dataset/Normal/speaker_14/12-a_h.wav,train,16000,0.7947,w,1974-11-22,,Normal
+14,Normal,12,sustained_vowel_a_low,a,low,12/vowels/12-a_l.nsp,dataset/Normal/speaker_14/12-a_l.wav,train,16000,0.9106,w,1974-11-22,,Normal
+14,Normal,12,sustained_vowel_a_normal,a,normal,12/vowels/12-a_n.nsp,dataset/Normal/speaker_14/12-a_n.wav,train,16000,0.7947,w,1974-11-22,,Normal
+14,Normal,12,sustained_vowel_i_high,i,high,12/vowels/12-i_h.nsp,dataset/Normal/speaker_14/12-i_h.wav,train,16000,0.8834,w,1974-11-22,,Normal
+14,Normal,12,sustained_vowel_i_low,i,low,12/vowels/12-i_l.nsp,dataset/Normal/speaker_14/12-i_l.wav,train,16000,0.9369,w,1974-11-22,,Normal
+14,Normal,12,sustained_vowel_i_normal,i,normal,12/vowels/12-i_n.nsp,dataset/Normal/speaker_14/12-i_n.wav,train,16000,0.9451,w,1974-11-22,,Normal
+14,Normal,12,sustained_vowel_u_high,u,high,12/vowels/12-u_h.nsp,dataset/Normal/speaker_14/12-u_h.wav,train,16000,0.5901,w,1974-11-22,,Normal
+14,Normal,12,sustained_vowel_u_low,u,low,12/vowels/12-u_l.nsp,dataset/Normal/speaker_14/12-u_l.wav,train,16000,0.9248,w,1974-11-22,,Normal
+14,Normal,12,sustained_vowel_u_normal,u,normal,12/vowels/12-u_n.nsp,dataset/Normal/speaker_14/12-u_n.wav,train,16000,0.6809,w,1974-11-22,,Normal
+15,Normal,13,sustained_vowel_a_high,a,high,13/vowels/13-a_h.nsp,dataset/Normal/speaker_15/13-a_h.wav,train,16000,1.0851,w,1976-06-18,,Normal
+15,Normal,13,sustained_vowel_a_low,a,low,13/vowels/13-a_l.nsp,dataset/Normal/speaker_15/13-a_l.wav,train,16000,1.1734,w,1976-06-18,,Normal
+15,Normal,13,sustained_vowel_a_normal,a,normal,13/vowels/13-a_n.nsp,dataset/Normal/speaker_15/13-a_n.wav,train,16000,1.1588,w,1976-06-18,,Normal
+15,Normal,13,sustained_vowel_i_high,i,high,13/vowels/13-i_h.nsp,dataset/Normal/speaker_15/13-i_h.wav,train,16000,1.2559,w,1976-06-18,,Normal
+15,Normal,13,sustained_vowel_i_low,i,low,13/vowels/13-i_l.nsp,dataset/Normal/speaker_15/13-i_l.wav,train,16000,1.1872,w,1976-06-18,,Normal
+15,Normal,13,sustained_vowel_i_normal,i,normal,13/vowels/13-i_n.nsp,dataset/Normal/speaker_15/13-i_n.wav,train,16000,1.7108,w,1976-06-18,,Normal
+15,Normal,13,sustained_vowel_u_high,u,high,13/vowels/13-u_h.nsp,dataset/Normal/speaker_15/13-u_h.wav,train,16000,1.361,w,1976-06-18,,Normal
+15,Normal,13,sustained_vowel_u_low,u,low,13/vowels/13-u_l.nsp,dataset/Normal/speaker_15/13-u_l.wav,train,16000,1.5227,w,1976-06-18,,Normal
+15,Normal,13,sustained_vowel_u_normal,u,normal,13/vowels/13-u_n.nsp,dataset/Normal/speaker_15/13-u_n.wav,train,16000,1.8198,w,1976-06-18,,Normal
+16,Normal,14,sustained_vowel_a_high,a,high,14/vowels/14-a_h.nsp,dataset/Normal/speaker_16/14-a_h.wav,train,16000,0.597,w,1977-08-21,,Normal
+16,Normal,14,sustained_vowel_a_low,a,low,14/vowels/14-a_l.nsp,dataset/Normal/speaker_16/14-a_l.wav,train,16000,1.265,w,1977-08-21,,Normal
+16,Normal,14,sustained_vowel_a_normal,a,normal,14/vowels/14-a_n.nsp,dataset/Normal/speaker_16/14-a_n.wav,train,16000,1.6801,w,1977-08-21,,Normal
+16,Normal,14,sustained_vowel_i_high,i,high,14/vowels/14-i_h.nsp,dataset/Normal/speaker_16/14-i_h.wav,train,16000,1.5199,w,1977-08-21,,Normal
+16,Normal,14,sustained_vowel_i_low,i,low,14/vowels/14-i_l.nsp,dataset/Normal/speaker_16/14-i_l.wav,train,16000,1.4301,w,1977-08-21,,Normal
+16,Normal,14,sustained_vowel_i_normal,i,normal,14/vowels/14-i_n.nsp,dataset/Normal/speaker_16/14-i_n.wav,train,16000,1.5199,w,1977-08-21,,Normal
+16,Normal,14,sustained_vowel_u_high,u,high,14/vowels/14-u_h.nsp,dataset/Normal/speaker_16/14-u_h.wav,train,16000,0.5185,w,1977-08-21,,Normal
+16,Normal,14,sustained_vowel_u_low,u,low,14/vowels/14-u_l.nsp,dataset/Normal/speaker_16/14-u_l.wav,train,16000,1.2951,w,1977-08-21,,Normal
+16,Normal,14,sustained_vowel_u_normal,u,normal,14/vowels/14-u_n.nsp,dataset/Normal/speaker_16/14-u_n.wav,train,16000,1.5851,w,1977-08-21,,Normal
+9,Normal,17,sustained_vowel_a_high,a,high,17/vowels/17-a_h.nsp,dataset/Normal/speaker_9/17-a_h.wav,val,16000,1.0829,w,1978-09-02,,Normal
+9,Normal,17,sustained_vowel_a_low,a,low,17/vowels/17-a_l.nsp,dataset/Normal/speaker_9/17-a_l.wav,val,16000,0.8752,w,1978-09-02,,Normal
+9,Normal,17,sustained_vowel_a_normal,a,normal,17/vowels/17-a_n.nsp,dataset/Normal/speaker_9/17-a_n.wav,val,16000,1.5247,w,1978-09-02,,Normal
+9,Normal,17,sustained_vowel_i_high,i,high,17/vowels/17-i_h.nsp,dataset/Normal/speaker_9/17-i_h.wav,val,16000,0.8401,w,1978-09-02,,Normal
+9,Normal,17,sustained_vowel_i_low,i,low,17/vowels/17-i_l.nsp,dataset/Normal/speaker_9/17-i_l.wav,val,16000,0.9151,w,1978-09-02,,Normal
+9,Normal,17,sustained_vowel_i_normal,i,normal,17/vowels/17-i_n.nsp,dataset/Normal/speaker_9/17-i_n.wav,val,16000,1.8563,w,1978-09-02,,Normal
+9,Normal,17,sustained_vowel_u_high,u,high,17/vowels/17-u_h.nsp,dataset/Normal/speaker_9/17-u_h.wav,val,16000,0.9687,w,1978-09-02,,Normal
+9,Normal,17,sustained_vowel_u_low,u,low,17/vowels/17-u_l.nsp,dataset/Normal/speaker_9/17-u_l.wav,val,16000,0.5751,w,1978-09-02,,Normal
+9,Normal,17,sustained_vowel_u_normal,u,normal,17/vowels/17-u_n.nsp,dataset/Normal/speaker_9/17-u_n.wav,val,16000,1.0901,w,1978-09-02,,Normal
+17,Normal,15,sustained_vowel_a_high,a,high,15/vowels/15-a_h.nsp,dataset/Normal/speaker_17/15-a_h.wav,val,16000,1.5827,m,1973-03-03,,Normal
+17,Normal,15,sustained_vowel_a_low,a,low,15/vowels/15-a_l.nsp,dataset/Normal/speaker_17/15-a_l.wav,val,16000,1.3751,m,1973-03-03,,Normal
+17,Normal,15,sustained_vowel_a_normal,a,normal,15/vowels/15-a_n.nsp,dataset/Normal/speaker_17/15-a_n.wav,val,16000,2.1101,m,1973-03-03,,Normal
+17,Normal,15,sustained_vowel_i_high,i,high,15/vowels/15-i_h.nsp,dataset/Normal/speaker_17/15-i_h.wav,val,16000,1.9401,m,1973-03-03,,Normal
+17,Normal,15,sustained_vowel_i_low,i,low,15/vowels/15-i_l.nsp,dataset/Normal/speaker_17/15-i_l.wav,val,16000,1.5301,m,1973-03-03,,Normal
+17,Normal,15,sustained_vowel_i_normal,i,normal,15/vowels/15-i_n.nsp,dataset/Normal/speaker_17/15-i_n.wav,val,16000,2.5884,m,1973-03-03,,Normal
+17,Normal,15,sustained_vowel_u_high,u,high,15/vowels/15-u_h.nsp,dataset/Normal/speaker_17/15-u_h.wav,val,16000,1.4541,m,1973-03-03,,Normal
+17,Normal,15,sustained_vowel_u_low,u,low,15/vowels/15-u_l.nsp,dataset/Normal/speaker_17/15-u_l.wav,val,16000,1.2851,m,1973-03-03,,Normal
+17,Normal,15,sustained_vowel_u_normal,u,normal,15/vowels/15-u_n.nsp,dataset/Normal/speaker_17/15-u_n.wav,val,16000,2.2301,m,1973-03-03,,Normal
+18,Normal,16,sustained_vowel_a_high,a,high,16/vowels/16-a_h.nsp,dataset/Normal/speaker_18/16-a_h.wav,val,16000,0.6189,w,1977-12-15,,Normal
+18,Normal,16,sustained_vowel_a_low,a,low,16/vowels/16-a_l.nsp,dataset/Normal/speaker_18/16-a_l.wav,val,16000,0.8801,w,1977-12-15,,Normal
+18,Normal,16,sustained_vowel_a_normal,a,normal,16/vowels/16-a_n.nsp,dataset/Normal/speaker_18/16-a_n.wav,val,16000,0.6746,w,1977-12-15,,Normal
+18,Normal,16,sustained_vowel_i_high,i,high,16/vowels/16-i_h.nsp,dataset/Normal/speaker_18/16-i_h.wav,val,16000,0.7751,w,1977-12-15,,Normal
+18,Normal,16,sustained_vowel_i_low,i,low,16/vowels/16-i_l.nsp,dataset/Normal/speaker_18/16-i_l.wav,val,16000,0.9501,w,1977-12-15,,Normal
+18,Normal,16,sustained_vowel_i_normal,i,normal,16/vowels/16-i_n.nsp,dataset/Normal/speaker_18/16-i_n.wav,val,16000,1.0111,w,1977-12-15,,Normal
+18,Normal,16,sustained_vowel_u_high,u,high,16/vowels/16-u_h.nsp,dataset/Normal/speaker_18/16-u_h.wav,val,16000,0.6651,w,1977-12-15,,Normal
+18,Normal,16,sustained_vowel_u_low,u,low,16/vowels/16-u_l.nsp,dataset/Normal/speaker_18/16-u_l.wav,val,16000,0.8101,w,1977-12-15,,Normal
+18,Normal,16,sustained_vowel_u_normal,u,normal,16/vowels/16-u_n.nsp,dataset/Normal/speaker_18/16-u_n.wav,val,16000,0.7801,w,1977-12-15,,Normal
+1382,Vocal_fold_paralysis,565,sustained_vowel_a_high,a,high,565/vowels/565-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-a_h.wav,test,16000,1.5401,w,1943-09-25,,Rekurrensparese
+1382,Vocal_fold_paralysis,565,sustained_vowel_a_low,a,low,565/vowels/565-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-a_l.wav,test,16000,1.6526,w,1943-09-25,,Rekurrensparese
+1382,Vocal_fold_paralysis,565,sustained_vowel_a_normal,a,normal,565/vowels/565-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-a_n.wav,test,16000,1.6903,w,1943-09-25,,Rekurrensparese
+1382,Vocal_fold_paralysis,565,sustained_vowel_i_high,i,high,565/vowels/565-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-i_h.wav,test,16000,1.1431,w,1943-09-25,,Rekurrensparese
+1382,Vocal_fold_paralysis,565,sustained_vowel_i_low,i,low,565/vowels/565-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-i_l.wav,test,16000,1.3964,w,1943-09-25,,Rekurrensparese
+1382,Vocal_fold_paralysis,565,sustained_vowel_i_normal,i,normal,565/vowels/565-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-i_n.wav,test,16000,1.7551,w,1943-09-25,,Rekurrensparese
+1382,Vocal_fold_paralysis,565,sustained_vowel_u_high,u,high,565/vowels/565-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-u_h.wav,test,16000,1.5908,w,1943-09-25,,Rekurrensparese
+1382,Vocal_fold_paralysis,565,sustained_vowel_u_low,u,low,565/vowels/565-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-u_l.wav,test,16000,1.492,w,1943-09-25,,Rekurrensparese
+1382,Vocal_fold_paralysis,565,sustained_vowel_u_normal,u,normal,565/vowels/565-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1382/565-u_n.wav,test,16000,1.4165,w,1943-09-25,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_a_high,a,high,627/vowels/627-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-a_h.wav,test,16000,0.7225,w,1953-03-01,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_a_low,a,low,627/vowels/627-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-a_l.wav,test,16000,1.2072,w,1953-03-01,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_a_normal,a,normal,627/vowels/627-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-a_n.wav,test,16000,1.2643,w,1953-03-01,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_i_high,i,high,627/vowels/627-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-i_h.wav,test,16000,0.7985,w,1953-03-01,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_i_low,i,low,627/vowels/627-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-i_l.wav,test,16000,0.8651,w,1953-03-01,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_i_normal,i,normal,627/vowels/627-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-i_n.wav,test,16000,1.3859,w,1953-03-01,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_u_high,u,high,627/vowels/627-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-u_h.wav,test,16000,0.713,w,1953-03-01,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_u_low,u,low,627/vowels/627-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-u_l.wav,test,16000,0.77,w,1953-03-01,,Rekurrensparese
+1383,Vocal_fold_paralysis,627,sustained_vowel_u_normal,u,normal,627/vowels/627-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1383/627-u_n.wav,test,16000,1.1978,w,1953-03-01,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_a_high,a,high,629/vowels/629-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-a_h.wav,test,16000,0.6179,m,1948-01-15,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_a_low,a,low,629/vowels/629-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-a_l.wav,test,16000,1.3609,m,1948-01-15,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_a_normal,a,normal,629/vowels/629-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-a_n.wav,test,16000,1.8681,m,1948-01-15,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_i_high,i,high,629/vowels/629-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-i_h.wav,test,16000,1.3119,m,1948-01-15,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_i_low,i,low,629/vowels/629-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-i_l.wav,test,16000,1.8632,m,1948-01-15,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_i_normal,i,normal,629/vowels/629-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-i_n.wav,test,16000,0.9981,m,1948-01-15,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_u_high,u,high,629/vowels/629-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-u_h.wav,test,16000,1.5251,m,1948-01-15,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_u_low,u,low,629/vowels/629-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-u_l.wav,test,16000,1.7522,m,1948-01-15,,Rekurrensparese
+1385,Vocal_fold_paralysis,629,sustained_vowel_u_normal,u,normal,629/vowels/629-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1385/629-u_n.wav,test,16000,1.7966,m,1948-01-15,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_a_high,a,high,105/vowels/105-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-a_h.wav,train,16000,0.793,w,1923-10-18,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_a_low,a,low,105/vowels/105-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-a_l.wav,train,16000,1.0974,w,1923-10-18,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_a_normal,a,normal,105/vowels/105-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-a_n.wav,train,16000,1.1162,w,1923-10-18,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_i_high,i,high,105/vowels/105-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-i_h.wav,train,16000,1.221,w,1923-10-18,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_i_low,i,low,105/vowels/105-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-i_l.wav,train,16000,0.8542,w,1923-10-18,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_i_normal,i,normal,105/vowels/105-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-i_n.wav,train,16000,1.7215,w,1923-10-18,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_u_high,u,high,105/vowels/105-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-u_h.wav,train,16000,1.5452,w,1923-10-18,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_u_low,u,low,105/vowels/105-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-u_l.wav,train,16000,0.7666,w,1923-10-18,,Rekurrensparese
+1302,Vocal_fold_paralysis,105,sustained_vowel_u_normal,u,normal,105/vowels/105-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1302/105-u_n.wav,train,16000,1.0052,w,1923-10-18,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_a_high,a,high,108/vowels/108-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-a_h.wav,train,16000,0.8229,w,1932-07-11,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_a_low,a,low,108/vowels/108-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-a_l.wav,train,16000,0.9228,w,1932-07-11,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_a_normal,a,normal,108/vowels/108-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-a_n.wav,train,16000,1.056,w,1932-07-11,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_i_high,i,high,108/vowels/108-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-i_h.wav,train,16000,0.7434,w,1932-07-11,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_i_low,i,low,108/vowels/108-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-i_l.wav,train,16000,0.72,w,1932-07-11,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_i_normal,i,normal,108/vowels/108-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-i_n.wav,train,16000,0.6119,w,1932-07-11,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_u_high,u,high,108/vowels/108-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-u_h.wav,train,16000,0.5523,w,1932-07-11,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_u_low,u,low,108/vowels/108-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-u_l.wav,train,16000,0.9803,w,1932-07-11,,Rekurrensparese
+1305,Vocal_fold_paralysis,108,sustained_vowel_u_normal,u,normal,108/vowels/108-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1305/108-u_n.wav,train,16000,0.7095,w,1932-07-11,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_a_high,a,high,120/vowels/120-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-a_h.wav,train,16000,1.3458,w,1948-02-21,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_a_low,a,low,120/vowels/120-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-a_l.wav,train,16000,1.9968,w,1948-02-21,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_a_normal,a,normal,120/vowels/120-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-a_n.wav,train,16000,1.9916,w,1948-02-21,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_i_high,i,high,120/vowels/120-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-i_h.wav,train,16000,0.7983,w,1948-02-21,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_i_low,i,low,120/vowels/120-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-i_l.wav,train,16000,1.6643,w,1948-02-21,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_i_normal,i,normal,120/vowels/120-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-i_n.wav,train,16000,1.9856,w,1948-02-21,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_u_high,u,high,120/vowels/120-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-u_h.wav,train,16000,1.9975,w,1948-02-21,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_u_low,u,low,120/vowels/120-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-u_l.wav,train,16000,1.7608,w,1948-02-21,,Rekurrensparese
+1312,Vocal_fold_paralysis,120,sustained_vowel_u_normal,u,normal,120/vowels/120-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1312/120-u_n.wav,train,16000,1.991,w,1948-02-21,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_a_high,a,high,128/vowels/128-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-a_h.wav,train,16000,1.9947,m,1950-08-14,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_a_low,a,low,128/vowels/128-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-a_l.wav,train,16000,1.997,m,1950-08-14,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_a_normal,a,normal,128/vowels/128-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-a_n.wav,train,16000,1.9969,m,1950-08-14,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_i_high,i,high,128/vowels/128-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-i_h.wav,train,16000,1.9921,m,1950-08-14,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_i_low,i,low,128/vowels/128-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-i_l.wav,train,16000,1.3259,m,1950-08-14,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_i_normal,i,normal,128/vowels/128-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-i_n.wav,train,16000,1.9946,m,1950-08-14,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_u_high,u,high,128/vowels/128-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-u_h.wav,train,16000,1.248,m,1950-08-14,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_u_low,u,low,128/vowels/128-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-u_l.wav,train,16000,1.9301,m,1950-08-14,,Rekurrensparese
+1313,Vocal_fold_paralysis,128,sustained_vowel_u_normal,u,normal,128/vowels/128-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1313/128-u_n.wav,train,16000,1.9948,m,1950-08-14,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_a_high,a,high,138/vowels/138-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-a_h.wav,train,16000,1.0453,w,1937-01-23,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_a_low,a,low,138/vowels/138-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-a_l.wav,train,16000,0.6453,w,1937-01-23,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_a_normal,a,normal,138/vowels/138-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-a_n.wav,train,16000,1.3981,w,1937-01-23,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_i_high,i,high,138/vowels/138-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-i_h.wav,train,16000,0.8438,w,1937-01-23,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_i_low,i,low,138/vowels/138-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-i_l.wav,train,16000,0.7947,w,1937-01-23,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_i_normal,i,normal,138/vowels/138-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-i_n.wav,train,16000,0.9574,w,1937-01-23,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_u_high,u,high,138/vowels/138-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-u_h.wav,train,16000,1.1336,w,1937-01-23,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_u_low,u,low,138/vowels/138-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-u_l.wav,train,16000,1.0525,w,1937-01-23,,Rekurrensparese
+1315,Vocal_fold_paralysis,138,sustained_vowel_u_normal,u,normal,138/vowels/138-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1315/138-u_n.wav,train,16000,1.2832,w,1937-01-23,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_a_high,a,high,130/vowels/130-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-a_h.wav,train,16000,1.467,w,1938-01-02,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_a_low,a,low,130/vowels/130-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-a_l.wav,train,16000,1.2908,w,1938-01-02,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_a_normal,a,normal,130/vowels/130-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-a_n.wav,train,16000,1.2533,w,1938-01-02,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_i_high,i,high,130/vowels/130-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-i_h.wav,train,16000,1.9847,w,1938-01-02,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_i_low,i,low,130/vowels/130-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-i_l.wav,train,16000,0.7962,w,1938-01-02,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_i_normal,i,normal,130/vowels/130-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-i_n.wav,train,16000,0.7238,w,1938-01-02,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_u_high,u,high,130/vowels/130-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-u_h.wav,train,16000,1.5603,w,1938-01-02,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_u_low,u,low,130/vowels/130-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-u_l.wav,train,16000,0.7003,w,1938-01-02,,Rekurrensparese
+1316,Vocal_fold_paralysis,130,sustained_vowel_u_normal,u,normal,130/vowels/130-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1316/130-u_n.wav,train,16000,1.4416,w,1938-01-02,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_a_high,a,high,142/vowels/142-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-a_h.wav,train,16000,0.8328,w,1935-08-09,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_a_low,a,low,142/vowels/142-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-a_l.wav,train,16000,0.9507,w,1935-08-09,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_a_normal,a,normal,142/vowels/142-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-a_n.wav,train,16000,1.2412,w,1935-08-09,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_i_high,i,high,142/vowels/142-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-i_h.wav,train,16000,0.5034,w,1935-08-09,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_i_low,i,low,142/vowels/142-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-i_l.wav,train,16000,1.1115,w,1935-08-09,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_i_normal,i,normal,142/vowels/142-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-i_n.wav,train,16000,0.7658,w,1935-08-09,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_u_high,u,high,142/vowels/142-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-u_h.wav,train,16000,0.5677,w,1935-08-09,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_u_low,u,low,142/vowels/142-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-u_l.wav,train,16000,0.9316,w,1935-08-09,,Rekurrensparese
+1321,Vocal_fold_paralysis,142,sustained_vowel_u_normal,u,normal,142/vowels/142-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1321/142-u_n.wav,train,16000,0.8624,w,1935-08-09,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_a_high,a,high,150/vowels/150-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-a_h.wav,train,16000,0.8116,w,1928-04-10,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_a_low,a,low,150/vowels/150-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-a_l.wav,train,16000,0.8261,w,1928-04-10,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_a_normal,a,normal,150/vowels/150-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-a_n.wav,train,16000,0.7024,w,1928-04-10,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_i_high,i,high,150/vowels/150-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-i_h.wav,train,16000,1.3126,w,1928-04-10,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_i_low,i,low,150/vowels/150-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-i_l.wav,train,16000,0.7763,w,1928-04-10,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_i_normal,i,normal,150/vowels/150-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-i_n.wav,train,16000,1.606,w,1928-04-10,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_u_high,u,high,150/vowels/150-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-u_h.wav,train,16000,0.8822,w,1928-04-10,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_u_low,u,low,150/vowels/150-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-u_l.wav,train,16000,1.0163,w,1928-04-10,,Rekurrensparese
+1329,Vocal_fold_paralysis,150,sustained_vowel_u_normal,u,normal,150/vowels/150-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1329/150-u_n.wav,train,16000,1.155,w,1928-04-10,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_a_high,a,high,152/vowels/152-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-a_h.wav,train,16000,0.9361,w,1929-02-23,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_a_low,a,low,152/vowels/152-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-a_l.wav,train,16000,0.7626,w,1929-02-23,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_a_normal,a,normal,152/vowels/152-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-a_n.wav,train,16000,1.3568,w,1929-02-23,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_i_high,i,high,152/vowels/152-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-i_h.wav,train,16000,1.0676,w,1929-02-23,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_i_low,i,low,152/vowels/152-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-i_l.wav,train,16000,0.9992,w,1929-02-23,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_i_normal,i,normal,152/vowels/152-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-i_n.wav,train,16000,1.6619,w,1929-02-23,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_u_high,u,high,152/vowels/152-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-u_h.wav,train,16000,0.7103,w,1929-02-23,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_u_low,u,low,152/vowels/152-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-u_l.wav,train,16000,0.8329,w,1929-02-23,,Rekurrensparese
+1331,Vocal_fold_paralysis,152,sustained_vowel_u_normal,u,normal,152/vowels/152-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1331/152-u_n.wav,train,16000,1.4358,w,1929-02-23,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_a_high,a,high,155/vowels/155-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-a_h.wav,train,16000,0.8651,m,1953-05-01,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_a_low,a,low,155/vowels/155-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-a_l.wav,train,16000,1.0201,m,1953-05-01,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_a_normal,a,normal,155/vowels/155-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-a_n.wav,train,16000,1.433,m,1953-05-01,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_i_high,i,high,155/vowels/155-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-i_h.wav,train,16000,0.8772,m,1953-05-01,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_i_low,i,low,155/vowels/155-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-i_l.wav,train,16000,0.9221,m,1953-05-01,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_i_normal,i,normal,155/vowels/155-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-i_n.wav,train,16000,1.5867,m,1953-05-01,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_u_high,u,high,155/vowels/155-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-u_h.wav,train,16000,1.0751,m,1953-05-01,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_u_low,u,low,155/vowels/155-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-u_l.wav,train,16000,1.1581,m,1953-05-01,,Rekurrensparese
+1335,Vocal_fold_paralysis,155,sustained_vowel_u_normal,u,normal,155/vowels/155-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1335/155-u_n.wav,train,16000,1.5466,m,1953-05-01,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_a_high,a,high,352/vowels/352-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-a_h.wav,train,16000,0.6266,m,1923-03-16,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_a_low,a,low,352/vowels/352-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-a_l.wav,train,16000,0.7985,m,1923-03-16,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_a_normal,a,normal,352/vowels/352-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-a_n.wav,train,16000,0.9286,m,1923-03-16,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_i_high,i,high,352/vowels/352-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-i_h.wav,train,16000,0.8176,m,1923-03-16,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_i_low,i,low,352/vowels/352-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-i_l.wav,train,16000,0.9761,m,1923-03-16,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_i_normal,i,normal,352/vowels/352-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-i_n.wav,train,16000,1.2937,m,1923-03-16,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_u_high,u,high,352/vowels/352-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-u_h.wav,train,16000,0.8271,m,1923-03-16,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_u_low,u,low,352/vowels/352-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-u_l.wav,train,16000,0.9451,m,1923-03-16,,Rekurrensparese
+1341,Vocal_fold_paralysis,352,sustained_vowel_u_normal,u,normal,352/vowels/352-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1341/352-u_n.wav,train,16000,0.9233,m,1923-03-16,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_a_high,a,high,356/vowels/356-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-a_h.wav,train,16000,1.4844,w,1947-01-14,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_a_low,a,low,356/vowels/356-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-a_l.wav,train,16000,0.959,w,1947-01-14,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_a_normal,a,normal,356/vowels/356-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-a_n.wav,train,16000,1.9772,w,1947-01-14,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_i_high,i,high,356/vowels/356-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-i_h.wav,train,16000,1.3499,w,1947-01-14,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_i_low,i,low,356/vowels/356-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-i_l.wav,train,16000,0.8556,w,1947-01-14,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_i_normal,i,normal,356/vowels/356-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-i_n.wav,train,16000,1.9963,w,1947-01-14,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_u_high,u,high,356/vowels/356-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-u_h.wav,train,16000,0.9601,w,1947-01-14,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_u_low,u,low,356/vowels/356-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-u_l.wav,train,16000,0.6176,w,1947-01-14,,Rekurrensparese
+1342,Vocal_fold_paralysis,356,sustained_vowel_u_normal,u,normal,356/vowels/356-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1342/356-u_n.wav,train,16000,1.6807,w,1947-01-14,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_a_high,a,high,358/vowels/358-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-a_h.wav,train,16000,1.2819,m,1928-09-25,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_a_low,a,low,358/vowels/358-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-a_l.wav,train,16000,1.0076,m,1928-09-25,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_a_normal,a,normal,358/vowels/358-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-a_n.wav,train,16000,1.9963,m,1928-09-25,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_i_high,i,high,358/vowels/358-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-i_h.wav,train,16000,0.7389,m,1928-09-25,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_i_low,i,low,358/vowels/358-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-i_l.wav,train,16000,2.05,m,1928-09-25,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_i_normal,i,normal,358/vowels/358-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-i_n.wav,train,16000,1.9868,m,1928-09-25,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_u_high,u,high,358/vowels/358-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-u_h.wav,train,16000,0.9966,m,1928-09-25,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_u_low,u,low,358/vowels/358-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-u_l.wav,train,16000,1.3401,m,1928-09-25,,Rekurrensparese
+1344,Vocal_fold_paralysis,358,sustained_vowel_u_normal,u,normal,358/vowels/358-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1344/358-u_n.wav,train,16000,1.2476,m,1928-09-25,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_a_high,a,high,365/vowels/365-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-a_h.wav,train,16000,1.635,m,1933-10-24,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_a_low,a,low,365/vowels/365-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-a_l.wav,train,16000,1.2358,m,1933-10-24,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_a_normal,a,normal,365/vowels/365-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-a_n.wav,train,16000,1.5161,m,1933-10-24,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_i_high,i,high,365/vowels/365-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-i_h.wav,train,16000,1.5519,m,1933-10-24,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_i_low,i,low,365/vowels/365-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-i_l.wav,train,16000,1.2928,m,1933-10-24,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_i_normal,i,normal,365/vowels/365-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-i_n.wav,train,16000,0.9843,m,1933-10-24,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_u_high,u,high,365/vowels/365-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-u_h.wav,train,16000,1.54,m,1933-10-24,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_u_low,u,low,365/vowels/365-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-u_l.wav,train,16000,0.7985,m,1933-10-24,,Rekurrensparese
+1350,Vocal_fold_paralysis,365,sustained_vowel_u_normal,u,normal,365/vowels/365-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1350/365-u_n.wav,train,16000,1.4873,m,1933-10-24,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_a_high,a,high,448/vowels/448-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-a_h.wav,val,16000,1.8441,w,1963-06-15,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_a_low,a,low,448/vowels/448-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-a_l.wav,val,16000,1.4544,w,1963-06-15,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_a_normal,a,normal,448/vowels/448-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-a_n.wav,val,16000,1.962,w,1963-06-15,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_i_high,i,high,448/vowels/448-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-i_h.wav,val,16000,1.5159,w,1963-06-15,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_i_low,i,low,448/vowels/448-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-i_l.wav,val,16000,1.7586,w,1963-06-15,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_i_normal,i,normal,448/vowels/448-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-i_n.wav,val,16000,1.8229,w,1963-06-15,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_u_high,u,high,448/vowels/448-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-u_h.wav,val,16000,1.4354,w,1963-06-15,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_u_low,u,low,448/vowels/448-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-u_l.wav,val,16000,1.5752,w,1963-06-15,,Rekurrensparese
+1357,Vocal_fold_paralysis,448,sustained_vowel_u_normal,u,normal,448/vowels/448-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1357/448-u_n.wav,val,16000,1.9832,w,1963-06-15,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_a_high,a,high,450/vowels/450-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-a_h.wav,val,16000,0.5704,w,1942-05-13,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_a_low,a,low,450/vowels/450-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-a_l.wav,val,16000,0.7483,w,1942-05-13,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_a_normal,a,normal,450/vowels/450-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-a_n.wav,val,16000,1.4301,w,1942-05-13,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_i_high,i,high,450/vowels/450-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-i_h.wav,val,16000,0.702,w,1942-05-13,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_i_low,i,low,450/vowels/450-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-i_l.wav,val,16000,0.6654,w,1942-05-13,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_i_normal,i,normal,450/vowels/450-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-i_n.wav,val,16000,0.9744,w,1942-05-13,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_u_high,u,high,450/vowels/450-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-u_h.wav,val,16000,0.5189,w,1942-05-13,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_u_low,u,low,450/vowels/450-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-u_l.wav,val,16000,0.694,w,1942-05-13,,Rekurrensparese
+1359,Vocal_fold_paralysis,450,sustained_vowel_u_normal,u,normal,450/vowels/450-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1359/450-u_n.wav,val,16000,0.7852,w,1942-05-13,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_a_high,a,high,492/vowels/492-a_h.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-a_h.wav,val,16000,0.8201,m,1924-06-25,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_a_low,a,low,492/vowels/492-a_l.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-a_l.wav,val,16000,0.694,m,1924-06-25,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_a_normal,a,normal,492/vowels/492-a_n.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-a_n.wav,val,16000,0.7795,m,1924-06-25,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_i_high,i,high,492/vowels/492-i_h.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-i_h.wav,val,16000,0.5096,m,1924-06-25,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_i_low,i,low,492/vowels/492-i_l.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-i_l.wav,val,16000,0.7225,m,1924-06-25,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_i_normal,i,normal,492/vowels/492-i_n.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-i_n.wav,val,16000,1.1027,m,1924-06-25,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_u_high,u,high,492/vowels/492-u_h.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-u_h.wav,val,16000,0.7651,m,1924-06-25,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_u_low,u,low,492/vowels/492-u_l.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-u_l.wav,val,16000,0.5419,m,1924-06-25,,Rekurrensparese
+1364,Vocal_fold_paralysis,492,sustained_vowel_u_normal,u,normal,492/vowels/492-u_n.nsp,dataset/Vocal_fold_paralysis/speaker_1364/492-u_n.wav,val,16000,0.5751,m,1924-06-25,,Rekurrensparese
+1882,Vocal_fold_polyp,1576,sustained_vowel_a_high,a,high,1576/vowels/1576-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-a_h.wav,test,16000,0.6651,m,1942-11-12,,Stimmlippenpolyp
+1882,Vocal_fold_polyp,1576,sustained_vowel_a_low,a,low,1576/vowels/1576-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-a_l.wav,test,16000,1.3271,m,1942-11-12,,Stimmlippenpolyp
+1882,Vocal_fold_polyp,1576,sustained_vowel_a_normal,a,normal,1576/vowels/1576-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-a_n.wav,test,16000,1.0893,m,1942-11-12,,Stimmlippenpolyp
+1882,Vocal_fold_polyp,1576,sustained_vowel_i_high,i,high,1576/vowels/1576-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-i_h.wav,test,16000,0.8861,m,1942-11-12,,Stimmlippenpolyp
+1882,Vocal_fold_polyp,1576,sustained_vowel_i_low,i,low,1576/vowels/1576-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-i_l.wav,test,16000,1.4356,m,1942-11-12,,Stimmlippenpolyp
+1882,Vocal_fold_polyp,1576,sustained_vowel_i_normal,i,normal,1576/vowels/1576-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-i_n.wav,test,16000,1.2548,m,1942-11-12,,Stimmlippenpolyp
+1882,Vocal_fold_polyp,1576,sustained_vowel_u_high,u,high,1576/vowels/1576-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-u_h.wav,test,16000,0.9797,m,1942-11-12,,Stimmlippenpolyp
+1882,Vocal_fold_polyp,1576,sustained_vowel_u_low,u,low,1576/vowels/1576-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-u_l.wav,test,16000,1.0993,m,1942-11-12,,Stimmlippenpolyp
+1882,Vocal_fold_polyp,1576,sustained_vowel_u_normal,u,normal,1576/vowels/1576-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1882/1576-u_n.wav,test,16000,0.7178,m,1942-11-12,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_a_high,a,high,1621/vowels/1621-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-a_h.wav,test,16000,1.3673,m,1959-12-21,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_a_low,a,low,1621/vowels/1621-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-a_l.wav,test,16000,0.8804,m,1959-12-21,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_a_normal,a,normal,1621/vowels/1621-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-a_n.wav,test,16000,1.4696,m,1959-12-21,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_i_high,i,high,1621/vowels/1621-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-i_h.wav,test,16000,1.3879,m,1959-12-21,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_i_low,i,low,1621/vowels/1621-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-i_l.wav,test,16000,1.0194,m,1959-12-21,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_i_normal,i,normal,1621/vowels/1621-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-i_n.wav,test,16000,1.6338,m,1959-12-21,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_u_high,u,high,1621/vowels/1621-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-u_h.wav,test,16000,0.7409,m,1959-12-21,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_u_low,u,low,1621/vowels/1621-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-u_l.wav,test,16000,1.6089,m,1959-12-21,,Stimmlippenpolyp
+1922,Vocal_fold_polyp,1621,sustained_vowel_u_normal,u,normal,1621/vowels/1621-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1922/1621-u_n.wav,test,16000,1.1721,m,1959-12-21,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_a_high,a,high,1639/vowels/1639-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-a_h.wav,test,16000,1.2226,m,1970-08-23,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_a_low,a,low,1639/vowels/1639-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-a_l.wav,test,16000,1.3247,m,1970-08-23,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_a_normal,a,normal,1639/vowels/1639-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-a_n.wav,test,16000,0.6379,m,1970-08-23,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_i_high,i,high,1639/vowels/1639-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-i_h.wav,test,16000,1.2838,m,1970-08-23,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_i_low,i,low,1639/vowels/1639-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-i_l.wav,test,16000,1.3755,m,1970-08-23,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_i_normal,i,normal,1639/vowels/1639-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-i_n.wav,test,16000,1.1719,m,1970-08-23,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_u_high,u,high,1639/vowels/1639-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-u_h.wav,test,16000,1.1651,m,1970-08-23,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_u_low,u,low,1639/vowels/1639-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-u_l.wav,test,16000,1.4098,m,1970-08-23,,Stimmlippenpolyp
+1938,Vocal_fold_polyp,1639,sustained_vowel_u_normal,u,normal,1639/vowels/1639-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1938/1639-u_n.wav,test,16000,1.1775,m,1970-08-23,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_a_high,a,high,109/vowels/109-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-a_h.wav,train,16000,0.7536,m,1947-10-27,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_a_low,a,low,109/vowels/109-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-a_l.wav,train,16000,0.8206,m,1947-10-27,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_a_normal,a,normal,109/vowels/109-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-a_n.wav,train,16000,0.8991,m,1947-10-27,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_i_high,i,high,109/vowels/109-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-i_h.wav,train,16000,0.6899,m,1947-10-27,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_i_low,i,low,109/vowels/109-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-i_l.wav,train,16000,1.0201,m,1947-10-27,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_i_normal,i,normal,109/vowels/109-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-i_n.wav,train,16000,0.8286,m,1947-10-27,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_u_high,u,high,109/vowels/109-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-u_h.wav,train,16000,0.6841,m,1947-10-27,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_u_low,u,low,109/vowels/109-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-u_l.wav,train,16000,0.9895,m,1947-10-27,,Stimmlippenpolyp
+1306,Vocal_fold_polyp,109,sustained_vowel_u_normal,u,normal,109/vowels/109-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1306/109-u_n.wav,train,16000,0.5942,m,1947-10-27,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_a_high,a,high,131/vowels/131-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-a_h.wav,train,16000,1.5427,m,1949-10-17,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_a_low,a,low,131/vowels/131-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-a_l.wav,train,16000,1.2901,m,1949-10-17,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_a_normal,a,normal,131/vowels/131-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-a_n.wav,train,16000,1.994,m,1949-10-17,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_i_high,i,high,131/vowels/131-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-i_h.wav,train,16000,1.7928,m,1949-10-17,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_i_low,i,low,131/vowels/131-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-i_l.wav,train,16000,1.5001,m,1949-10-17,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_i_normal,i,normal,131/vowels/131-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-i_n.wav,train,16000,1.9917,m,1949-10-17,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_u_high,u,high,131/vowels/131-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-u_h.wav,train,16000,1.774,m,1949-10-17,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_u_low,u,low,131/vowels/131-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-u_l.wav,train,16000,1.4701,m,1949-10-17,,Stimmlippenpolyp
+1317,Vocal_fold_polyp,131,sustained_vowel_u_normal,u,normal,131/vowels/131-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1317/131-u_n.wav,train,16000,1.9947,m,1949-10-17,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_a_high,a,high,491/vowels/491-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-a_h.wav,train,16000,0.8651,m,1919-07-26,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_a_low,a,low,491/vowels/491-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-a_l.wav,train,16000,1.4351,m,1919-07-26,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_a_normal,a,normal,491/vowels/491-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-a_n.wav,train,16000,1.0172,m,1919-07-26,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_i_high,i,high,491/vowels/491-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-i_h.wav,train,16000,0.6369,m,1919-07-26,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_i_low,i,low,491/vowels/491-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-i_l.wav,train,16000,1.4457,m,1919-07-26,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_i_normal,i,normal,491/vowels/491-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-i_n.wav,train,16000,1.5495,m,1919-07-26,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_u_high,u,high,491/vowels/491-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-u_h.wav,train,16000,0.6559,m,1919-07-26,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_u_low,u,low,491/vowels/491-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-u_l.wav,train,16000,0.808,m,1919-07-26,,Stimmlippenpolyp
+1363,Vocal_fold_polyp,491,sustained_vowel_u_normal,u,normal,491/vowels/491-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1363/491-u_n.wav,train,16000,0.808,m,1919-07-26,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_a_high,a,high,501/vowels/501-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-a_h.wav,train,16000,0.7512,m,1934-05-19,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_a_low,a,low,501/vowels/501-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-a_l.wav,train,16000,0.8,m,1934-05-19,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_a_normal,a,normal,501/vowels/501-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-a_n.wav,train,16000,1.5631,m,1934-05-19,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_i_high,i,high,501/vowels/501-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-i_h.wav,train,16000,0.9221,m,1934-05-19,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_i_low,i,low,501/vowels/501-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-i_l.wav,train,16000,0.8401,m,1934-05-19,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_i_normal,i,normal,501/vowels/501-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-i_n.wav,train,16000,1.9051,m,1934-05-19,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_u_high,u,high,501/vowels/501-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-u_h.wav,train,16000,0.8366,m,1934-05-19,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_u_low,u,low,501/vowels/501-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-u_l.wav,train,16000,0.7601,m,1934-05-19,,Stimmlippenpolyp
+1374,Vocal_fold_polyp,501,sustained_vowel_u_normal,u,normal,501/vowels/501-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1374/501-u_n.wav,train,16000,1.4551,m,1934-05-19,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_a_high,a,high,562/vowels/562-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-a_h.wav,train,16000,0.9259,w,1943-11-28,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_a_low,a,low,562/vowels/562-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-a_l.wav,train,16000,1.11,w,1943-11-28,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_a_normal,a,normal,562/vowels/562-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-a_n.wav,train,16000,1.5558,w,1943-11-28,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_i_high,i,high,562/vowels/562-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-i_h.wav,train,16000,0.9885,w,1943-11-28,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_i_low,i,low,562/vowels/562-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-i_l.wav,train,16000,0.3898,w,1943-11-28,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_i_normal,i,normal,562/vowels/562-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-i_n.wav,train,16000,1.2465,w,1943-11-28,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_u_high,u,high,562/vowels/562-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-u_h.wav,train,16000,1.2972,w,1943-11-28,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_u_low,u,low,562/vowels/562-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-u_l.wav,train,16000,1.3119,w,1943-11-28,,Stimmlippenpolyp
+1377,Vocal_fold_polyp,562,sustained_vowel_u_normal,u,normal,562/vowels/562-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1377/562-u_n.wav,train,16000,1.4829,w,1943-11-28,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_a_high,a,high,720/vowels/720-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-a_h.wav,train,16000,0.7605,w,1929-12-06,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_a_low,a,low,720/vowels/720-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-a_l.wav,train,16000,0.5269,w,1929-12-06,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_a_normal,a,normal,720/vowels/720-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-a_n.wav,train,16000,0.5104,w,1929-12-06,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_i_high,i,high,720/vowels/720-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-i_h.wav,train,16000,0.8556,w,1929-12-06,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_i_low,i,low,720/vowels/720-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-i_l.wav,train,16000,0.808,w,1929-12-06,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_i_normal,i,normal,720/vowels/720-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-i_n.wav,train,16000,0.5251,w,1929-12-06,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_u_high,u,high,720/vowels/720-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-u_h.wav,train,16000,0.6456,w,1929-12-06,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_u_low,u,low,720/vowels/720-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-u_l.wav,train,16000,0.5312,w,1929-12-06,,Stimmlippenpolyp
+1412,Vocal_fold_polyp,720,sustained_vowel_u_normal,u,normal,720/vowels/720-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1412/720-u_n.wav,train,16000,0.6456,w,1929-12-06,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_a_high,a,high,895/vowels/895-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-a_h.wav,train,16000,1.1692,m,1967-09-30,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_a_low,a,low,895/vowels/895-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-a_l.wav,train,16000,1.389,m,1967-09-30,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_a_normal,a,normal,895/vowels/895-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-a_n.wav,train,16000,1.6551,m,1967-09-30,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_i_high,i,high,895/vowels/895-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-i_h.wav,train,16000,1.4119,m,1967-09-30,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_i_low,i,low,895/vowels/895-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-i_l.wav,train,16000,1.4258,m,1967-09-30,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_i_normal,i,normal,895/vowels/895-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-i_n.wav,train,16000,1.7401,m,1967-09-30,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_u_high,u,high,895/vowels/895-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-u_h.wav,train,16000,1.1167,m,1967-09-30,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_u_low,u,low,895/vowels/895-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-u_l.wav,train,16000,1.5009,m,1967-09-30,,Stimmlippenpolyp
+1454,Vocal_fold_polyp,895,sustained_vowel_u_normal,u,normal,895/vowels/895-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1454/895-u_n.wav,train,16000,1.5251,m,1967-09-30,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_a_high,a,high,859/vowels/859-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-a_h.wav,train,16000,0.789,w,1944-09-29,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_a_low,a,low,859/vowels/859-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-a_l.wav,train,16000,1.5775,w,1944-09-29,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_a_normal,a,normal,859/vowels/859-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-a_n.wav,train,16000,1.9297,w,1944-09-29,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_i_high,i,high,859/vowels/859-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-i_h.wav,train,16000,1.5305,w,1944-09-29,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_i_low,i,low,859/vowels/859-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-i_l.wav,train,16000,1.8324,w,1944-09-29,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_i_normal,i,normal,859/vowels/859-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-i_n.wav,train,16000,1.3404,w,1944-09-29,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_u_high,u,high,859/vowels/859-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-u_h.wav,train,16000,0.8936,w,1944-09-29,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_u_low,u,low,859/vowels/859-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-u_l.wav,train,16000,1.9107,w,1944-09-29,,Stimmlippenpolyp
+1459,Vocal_fold_polyp,859,sustained_vowel_u_normal,u,normal,859/vowels/859-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1459/859-u_n.wav,train,16000,1.9468,w,1944-09-29,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_a_high,a,high,932/vowels/932-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-a_h.wav,train,16000,0.789,w,1937-04-07,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_a_low,a,low,932/vowels/932-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-a_l.wav,train,16000,0.8654,w,1937-04-07,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_a_normal,a,normal,932/vowels/932-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-a_n.wav,train,16000,0.8654,w,1937-04-07,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_i_high,i,high,932/vowels/932-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-i_h.wav,train,16000,0.9387,w,1937-04-07,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_i_low,i,low,932/vowels/932-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-i_l.wav,train,16000,0.7255,w,1937-04-07,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_i_normal,i,normal,932/vowels/932-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-i_n.wav,train,16000,0.7255,w,1937-04-07,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_u_high,u,high,932/vowels/932-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-u_h.wav,train,16000,0.9411,w,1937-04-07,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_u_low,u,low,932/vowels/932-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-u_l.wav,train,16000,0.9835,w,1937-04-07,,Stimmlippenpolyp
+1524,Vocal_fold_polyp,932,sustained_vowel_u_normal,u,normal,932/vowels/932-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1524/932-u_n.wav,train,16000,0.9835,w,1937-04-07,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_a_high,a,high,1052/vowels/1052-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-a_h.wav,train,16000,0.5419,w,1966-01-22,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_a_low,a,low,1052/vowels/1052-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-a_l.wav,train,16000,0.7823,w,1966-01-22,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_a_normal,a,normal,1052/vowels/1052-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-a_n.wav,train,16000,0.5264,w,1966-01-22,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_i_high,i,high,1052/vowels/1052-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-i_h.wav,train,16000,0.6274,w,1966-01-22,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_i_low,i,low,1052/vowels/1052-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-i_l.wav,train,16000,1.2263,w,1966-01-22,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_i_normal,i,normal,1052/vowels/1052-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-i_n.wav,train,16000,0.8534,w,1966-01-22,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_u_high,u,high,1052/vowels/1052-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-u_h.wav,train,16000,0.5229,w,1966-01-22,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_u_low,u,low,1052/vowels/1052-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-u_l.wav,train,16000,0.683,w,1966-01-22,,Stimmlippenpolyp
+1550,Vocal_fold_polyp,1052,sustained_vowel_u_normal,u,normal,1052/vowels/1052-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1550/1052-u_n.wav,train,16000,0.507,w,1966-01-22,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_a_high,a,high,1157/vowels/1157-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-a_h.wav,train,16000,0.9685,m,1938-03-06,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_a_low,a,low,1157/vowels/1157-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-a_l.wav,train,16000,1.4259,m,1938-03-06,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_a_normal,a,normal,1157/vowels/1157-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-a_n.wav,train,16000,0.9107,m,1938-03-06,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_i_high,i,high,1157/vowels/1157-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-i_h.wav,train,16000,1.1313,m,1938-03-06,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_i_low,i,low,1157/vowels/1157-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-i_l.wav,train,16000,1.1787,m,1938-03-06,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_i_normal,i,normal,1157/vowels/1157-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-i_n.wav,train,16000,1.4949,m,1938-03-06,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_u_high,u,high,1157/vowels/1157-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-u_h.wav,train,16000,1.0552,m,1938-03-06,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_u_low,u,low,1157/vowels/1157-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-u_l.wav,train,16000,1.1543,m,1938-03-06,,Stimmlippenpolyp
+1574,Vocal_fold_polyp,1157,sustained_vowel_u_normal,u,normal,1157/vowels/1157-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1574/1157-u_n.wav,train,16000,0.8376,m,1938-03-06,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_a_high,a,high,1188/vowels/1188-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-a_h.wav,train,16000,0.694,w,1970-08-12,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_a_low,a,low,1188/vowels/1188-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-a_l.wav,train,16000,0.8271,w,1970-08-12,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_a_normal,a,normal,1188/vowels/1188-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-a_n.wav,train,16000,0.8406,w,1970-08-12,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_i_high,i,high,1188/vowels/1188-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-i_h.wav,train,16000,0.6451,w,1970-08-12,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_i_low,i,low,1188/vowels/1188-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-i_l.wav,train,16000,1.0574,w,1970-08-12,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_i_normal,i,normal,1188/vowels/1188-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-i_n.wav,train,16000,1.0001,w,1970-08-12,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_u_high,u,high,1188/vowels/1188-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-u_h.wav,train,16000,0.8081,w,1970-08-12,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_u_low,u,low,1188/vowels/1188-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-u_l.wav,train,16000,0.6654,w,1970-08-12,,Stimmlippenpolyp
+1587,Vocal_fold_polyp,1188,sustained_vowel_u_normal,u,normal,1188/vowels/1188-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1587/1188-u_n.wav,train,16000,0.9241,w,1970-08-12,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_a_high,a,high,1317/vowels/1317-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-a_h.wav,train,16000,1.4813,m,1956-06-29,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_a_low,a,low,1317/vowels/1317-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-a_l.wav,train,16000,1.0799,m,1956-06-29,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_a_normal,a,normal,1317/vowels/1317-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-a_n.wav,train,16000,1.4541,m,1956-06-29,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_i_high,i,high,1317/vowels/1317-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-i_h.wav,train,16000,1.6043,m,1956-06-29,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_i_low,i,low,1317/vowels/1317-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-i_l.wav,train,16000,1.3401,m,1956-06-29,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_i_normal,i,normal,1317/vowels/1317-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-i_n.wav,train,16000,1.5744,m,1956-06-29,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_u_high,u,high,1317/vowels/1317-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-u_h.wav,train,16000,0.6567,m,1956-06-29,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_u_low,u,low,1317/vowels/1317-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-u_l.wav,train,16000,1.1551,m,1956-06-29,,Stimmlippenpolyp
+1701,Vocal_fold_polyp,1317,sustained_vowel_u_normal,u,normal,1317/vowels/1317-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1701/1317-u_n.wav,train,16000,1.5779,m,1956-06-29,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_a_high,a,high,1334/vowels/1334-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-a_h.wav,train,16000,0.9051,m,1943-02-14,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_a_low,a,low,1334/vowels/1334-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-a_l.wav,train,16000,1.1851,m,1943-02-14,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_a_normal,a,normal,1334/vowels/1334-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-a_n.wav,train,16000,1.9012,m,1943-02-14,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_i_high,i,high,1334/vowels/1334-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-i_h.wav,train,16000,1.3851,m,1943-02-14,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_i_low,i,low,1334/vowels/1334-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-i_l.wav,train,16000,1.6301,m,1943-02-14,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_i_normal,i,normal,1334/vowels/1334-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-i_n.wav,train,16000,1.9678,m,1943-02-14,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_u_high,u,high,1334/vowels/1334-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-u_h.wav,train,16000,1.5951,m,1943-02-14,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_u_low,u,low,1334/vowels/1334-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-u_l.wav,train,16000,1.4601,m,1943-02-14,,Stimmlippenpolyp
+1717,Vocal_fold_polyp,1334,sustained_vowel_u_normal,u,normal,1334/vowels/1334-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1717/1334-u_n.wav,train,16000,1.5685,m,1943-02-14,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_a_high,a,high,1386/vowels/1386-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-a_h.wav,val,16000,1.0901,m,1930-08-22,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_a_low,a,low,1386/vowels/1386-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-a_l.wav,val,16000,1.6904,m,1930-08-22,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_a_normal,a,normal,1386/vowels/1386-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-a_n.wav,val,16000,1.9678,m,1930-08-22,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_i_high,i,high,1386/vowels/1386-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-i_h.wav,val,16000,0.9285,m,1930-08-22,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_i_low,i,low,1386/vowels/1386-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-i_l.wav,val,16000,1.3217,m,1930-08-22,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_i_normal,i,normal,1386/vowels/1386-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-i_n.wav,val,16000,1.521,m,1930-08-22,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_u_high,u,high,1386/vowels/1386-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-u_h.wav,val,16000,1.3901,m,1930-08-22,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_u_low,u,low,1386/vowels/1386-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-u_l.wav,val,16000,2.0532,m,1930-08-22,,Stimmlippenpolyp
+1734,Vocal_fold_polyp,1386,sustained_vowel_u_normal,u,normal,1386/vowels/1386-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1734/1386-u_n.wav,val,16000,1.9487,m,1930-08-22,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_a_high,a,high,1389/vowels/1389-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-a_h.wav,val,16000,1.7491,m,1942-03-03,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_a_low,a,low,1389/vowels/1389-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-a_l.wav,val,16000,1.6992,m,1942-03-03,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_a_normal,a,normal,1389/vowels/1389-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-a_n.wav,val,16000,1.9392,m,1942-03-03,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_i_high,i,high,1389/vowels/1389-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-i_h.wav,val,16000,1.8537,m,1942-03-03,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_i_low,i,low,1389/vowels/1389-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-i_l.wav,val,16000,1.8156,m,1942-03-03,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_i_normal,i,normal,1389/vowels/1389-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-i_n.wav,val,16000,1.2453,m,1942-03-03,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_u_high,u,high,1389/vowels/1389-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-u_h.wav,val,16000,1.4354,m,1942-03-03,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_u_low,u,low,1389/vowels/1389-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-u_l.wav,val,16000,1.6864,m,1942-03-03,,Stimmlippenpolyp
+1741,Vocal_fold_polyp,1389,sustained_vowel_u_normal,u,normal,1389/vowels/1389-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1741/1389-u_n.wav,val,16000,1.9444,m,1942-03-03,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_a_high,a,high,1525/vowels/1525-a_h.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-a_h.wav,val,16000,0.9126,m,1951-09-10,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_a_low,a,low,1525/vowels/1525-a_l.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-a_l.wav,val,16000,1.502,m,1951-09-10,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_a_normal,a,normal,1525/vowels/1525-a_n.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-a_n.wav,val,16000,1.7301,m,1951-09-10,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_i_high,i,high,1525/vowels/1525-i_h.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-i_h.wav,val,16000,1.7681,m,1951-09-10,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_i_low,i,low,1525/vowels/1525-i_l.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-i_l.wav,val,16000,1.3689,m,1951-09-10,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_i_normal,i,normal,1525/vowels/1525-i_n.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-i_n.wav,val,16000,1.9202,m,1951-09-10,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_u_high,u,high,1525/vowels/1525-u_h.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-u_h.wav,val,16000,1.4164,m,1951-09-10,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_u_low,u,low,1525/vowels/1525-u_l.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-u_l.wav,val,16000,1.4818,m,1951-09-10,,Stimmlippenpolyp
+1850,Vocal_fold_polyp,1525,sustained_vowel_u_normal,u,normal,1525/vowels/1525-u_n.nsp,dataset/Vocal_fold_polyp/speaker_1850/1525-u_n.wav,val,16000,1.7681,m,1951-09-10,,Stimmlippenpolyp
+1993,Vox_senilis,1694,sustained_vowel_a_high,a,high,1694/vowels/1694-a_h.nsp,dataset/Vox_senilis/speaker_1993/1694-a_h.wav,test,16000,0.5897,w,1933-08-06,,Vox senilis
+1993,Vox_senilis,1694,sustained_vowel_a_low,a,low,1694/vowels/1694-a_l.nsp,dataset/Vox_senilis/speaker_1993/1694-a_l.wav,test,16000,0.8825,w,1933-08-06,,Vox senilis
+1993,Vox_senilis,1694,sustained_vowel_a_normal,a,normal,1694/vowels/1694-a_n.nsp,dataset/Vox_senilis/speaker_1993/1694-a_n.wav,test,16000,1.077,w,1933-08-06,,Vox senilis
+1993,Vox_senilis,1694,sustained_vowel_i_high,i,high,1694/vowels/1694-i_h.nsp,dataset/Vox_senilis/speaker_1993/1694-i_h.wav,test,16000,0.789,w,1933-08-06,,Vox senilis
+1993,Vox_senilis,1694,sustained_vowel_i_low,i,low,1694/vowels/1694-i_l.nsp,dataset/Vox_senilis/speaker_1993/1694-i_l.wav,test,16000,0.8366,w,1933-08-06,,Vox senilis
+1993,Vox_senilis,1694,sustained_vowel_i_normal,i,normal,1694/vowels/1694-i_n.nsp,dataset/Vox_senilis/speaker_1993/1694-i_n.wav,test,16000,1.1407,w,1933-08-06,,Vox senilis
+1993,Vox_senilis,1694,sustained_vowel_u_high,u,high,1694/vowels/1694-u_h.nsp,dataset/Vox_senilis/speaker_1993/1694-u_h.wav,test,16000,0.7035,w,1933-08-06,,Vox senilis
+1993,Vox_senilis,1694,sustained_vowel_u_low,u,low,1694/vowels/1694-u_l.nsp,dataset/Vox_senilis/speaker_1993/1694-u_l.wav,test,16000,0.8529,w,1933-08-06,,Vox senilis
+1993,Vox_senilis,1694,sustained_vowel_u_normal,u,normal,1694/vowels/1694-u_n.nsp,dataset/Vox_senilis/speaker_1993/1694-u_n.wav,test,16000,0.7901,w,1933-08-06,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_a_high,a,high,1772/vowels/1772-a_h.nsp,dataset/Vox_senilis/speaker_2036/1772-a_h.wav,test,16000,0.8664,w,1923-02-15,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_a_low,a,low,1772/vowels/1772-a_l.nsp,dataset/Vox_senilis/speaker_2036/1772-a_l.wav,test,16000,0.8358,w,1923-02-15,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_a_normal,a,normal,1772/vowels/1772-a_n.nsp,dataset/Vox_senilis/speaker_2036/1772-a_n.wav,test,16000,1.3225,w,1923-02-15,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_i_high,i,high,1772/vowels/1772-i_h.nsp,dataset/Vox_senilis/speaker_2036/1772-i_h.wav,test,16000,1.1213,w,1923-02-15,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_i_low,i,low,1772/vowels/1772-i_l.nsp,dataset/Vox_senilis/speaker_2036/1772-i_l.wav,test,16000,0.9256,w,1923-02-15,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_i_normal,i,normal,1772/vowels/1772-i_n.nsp,dataset/Vox_senilis/speaker_2036/1772-i_n.wav,test,16000,1.7957,w,1923-02-15,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_u_high,u,high,1772/vowels/1772-u_h.nsp,dataset/Vox_senilis/speaker_2036/1772-u_h.wav,test,16000,0.7074,w,1923-02-15,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_u_low,u,low,1772/vowels/1772-u_l.nsp,dataset/Vox_senilis/speaker_2036/1772-u_l.wav,test,16000,0.786,w,1923-02-15,,Vox senilis
+2036,Vox_senilis,1772,sustained_vowel_u_normal,u,normal,1772/vowels/1772-u_n.nsp,dataset/Vox_senilis/speaker_2036/1772-u_n.wav,test,16000,0.6732,w,1923-02-15,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_a_high,a,high,1819/vowels/1819-a_h.nsp,dataset/Vox_senilis/speaker_2084/1819-a_h.wav,test,16000,1.5097,m,1934-03-30,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_a_low,a,low,1819/vowels/1819-a_l.nsp,dataset/Vox_senilis/speaker_2084/1819-a_l.wav,test,16000,1.8798,m,1934-03-30,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_a_normal,a,normal,1819/vowels/1819-a_n.nsp,dataset/Vox_senilis/speaker_2084/1819-a_n.wav,test,16000,1.0114,m,1934-03-30,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_i_high,i,high,1819/vowels/1819-i_h.nsp,dataset/Vox_senilis/speaker_2084/1819-i_h.wav,test,16000,1.7416,m,1934-03-30,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_i_low,i,low,1819/vowels/1819-i_l.nsp,dataset/Vox_senilis/speaker_2084/1819-i_l.wav,test,16000,1.9685,m,1934-03-30,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_i_normal,i,normal,1819/vowels/1819-i_n.nsp,dataset/Vox_senilis/speaker_2084/1819-i_n.wav,test,16000,1.3666,m,1934-03-30,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_u_high,u,high,1819/vowels/1819-u_h.nsp,dataset/Vox_senilis/speaker_2084/1819-u_h.wav,test,16000,1.4653,m,1934-03-30,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_u_low,u,low,1819/vowels/1819-u_l.nsp,dataset/Vox_senilis/speaker_2084/1819-u_l.wav,test,16000,1.6676,m,1934-03-30,,Vox senilis
+2084,Vox_senilis,1819,sustained_vowel_u_normal,u,normal,1819/vowels/1819-u_n.nsp,dataset/Vox_senilis/speaker_2084/1819-u_n.wav,test,16000,0.9818,m,1934-03-30,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_a_high,a,high,148/vowels/148-a_h.nsp,dataset/Vox_senilis/speaker_73/148-a_h.wav,train,16000,1.2118,w,1924-08-25,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_a_low,a,low,148/vowels/148-a_l.nsp,dataset/Vox_senilis/speaker_73/148-a_l.wav,train,16000,0.9303,w,1924-08-25,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_a_normal,a,normal,148/vowels/148-a_n.nsp,dataset/Vox_senilis/speaker_73/148-a_n.wav,train,16000,1.0525,w,1924-08-25,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_i_high,i,high,148/vowels/148-i_h.nsp,dataset/Vox_senilis/speaker_73/148-i_h.wav,train,16000,1.0862,w,1924-08-25,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_i_low,i,low,148/vowels/148-i_l.nsp,dataset/Vox_senilis/speaker_73/148-i_l.wav,train,16000,0.9193,w,1924-08-25,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_i_normal,i,normal,148/vowels/148-i_n.nsp,dataset/Vox_senilis/speaker_73/148-i_n.wav,train,16000,0.8624,w,1924-08-25,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_u_high,u,high,148/vowels/148-u_h.nsp,dataset/Vox_senilis/speaker_73/148-u_h.wav,train,16000,0.9372,w,1924-08-25,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_u_low,u,low,148/vowels/148-u_l.nsp,dataset/Vox_senilis/speaker_73/148-u_l.wav,train,16000,1.5996,w,1924-08-25,,Vox senilis
+73,Vox_senilis,148,sustained_vowel_u_normal,u,normal,148/vowels/148-u_n.nsp,dataset/Vox_senilis/speaker_73/148-u_n.wav,train,16000,1.1513,w,1924-08-25,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_a_high,a,high,360/vowels/360-a_h.nsp,dataset/Vox_senilis/speaker_1347/360-a_h.wav,train,16000,0.9529,w,1922-09-02,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_a_low,a,low,360/vowels/360-a_l.nsp,dataset/Vox_senilis/speaker_1347/360-a_l.wav,train,16000,0.9531,w,1922-09-02,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_a_normal,a,normal,360/vowels/360-a_n.nsp,dataset/Vox_senilis/speaker_1347/360-a_n.wav,train,16000,0.8765,w,1922-09-02,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_i_high,i,high,360/vowels/360-i_h.nsp,dataset/Vox_senilis/speaker_1347/360-i_h.wav,train,16000,1.0306,w,1922-09-02,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_i_low,i,low,360/vowels/360-i_l.nsp,dataset/Vox_senilis/speaker_1347/360-i_l.wav,train,16000,0.9221,w,1922-09-02,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_i_normal,i,normal,360/vowels/360-i_n.nsp,dataset/Vox_senilis/speaker_1347/360-i_n.wav,train,16000,1.6535,w,1922-09-02,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_u_high,u,high,360/vowels/360-u_h.nsp,dataset/Vox_senilis/speaker_1347/360-u_h.wav,train,16000,0.6122,w,1922-09-02,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_u_low,u,low,360/vowels/360-u_l.nsp,dataset/Vox_senilis/speaker_1347/360-u_l.wav,train,16000,0.6291,w,1922-09-02,,Vox senilis
+1347,Vox_senilis,360,sustained_vowel_u_normal,u,normal,360/vowels/360-u_n.nsp,dataset/Vox_senilis/speaker_1347/360-u_n.wav,train,16000,1.0466,w,1922-09-02,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_a_high,a,high,612/vowels/612-a_h.nsp,dataset/Vox_senilis/speaker_1387/612-a_h.wav,train,16000,1.9202,w,1921-11-23,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_a_low,a,low,612/vowels/612-a_l.nsp,dataset/Vox_senilis/speaker_1387/612-a_l.wav,train,16000,0.8936,w,1921-11-23,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_a_normal,a,normal,612/vowels/612-a_n.nsp,dataset/Vox_senilis/speaker_1387/612-a_n.wav,train,16000,1.9202,w,1921-11-23,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_i_high,i,high,612/vowels/612-i_h.nsp,dataset/Vox_senilis/speaker_1387/612-i_h.wav,train,16000,0.8014,w,1921-11-23,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_i_low,i,low,612/vowels/612-i_l.nsp,dataset/Vox_senilis/speaker_1387/612-i_l.wav,train,16000,0.7841,w,1921-11-23,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_i_normal,i,normal,612/vowels/612-i_n.nsp,dataset/Vox_senilis/speaker_1387/612-i_n.wav,train,16000,1.8822,w,1921-11-23,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_u_high,u,high,612/vowels/612-u_h.nsp,dataset/Vox_senilis/speaker_1387/612-u_h.wav,train,16000,1.7681,w,1921-11-23,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_u_low,u,low,612/vowels/612-u_l.nsp,dataset/Vox_senilis/speaker_1387/612-u_l.wav,train,16000,1.0076,w,1921-11-23,,Vox senilis
+1387,Vox_senilis,612,sustained_vowel_u_normal,u,normal,612/vowels/612-u_n.nsp,dataset/Vox_senilis/speaker_1387/612-u_n.wav,train,16000,1.7681,w,1921-11-23,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_a_high,a,high,816/vowels/816-a_h.nsp,dataset/Vox_senilis/speaker_1428/816-a_h.wav,train,16000,0.9101,w,1927-08-01,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_a_low,a,low,816/vowels/816-a_l.nsp,dataset/Vox_senilis/speaker_1428/816-a_l.wav,train,16000,1.904,w,1927-08-01,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_a_normal,a,normal,816/vowels/816-a_n.nsp,dataset/Vox_senilis/speaker_1428/816-a_n.wav,train,16000,0.7723,w,1927-08-01,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_i_high,i,high,816/vowels/816-i_h.nsp,dataset/Vox_senilis/speaker_1428/816-i_h.wav,train,16000,1.2151,w,1927-08-01,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_i_low,i,low,816/vowels/816-i_l.nsp,dataset/Vox_senilis/speaker_1428/816-i_l.wav,train,16000,1.6998,w,1927-08-01,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_i_normal,i,normal,816/vowels/816-i_n.nsp,dataset/Vox_senilis/speaker_1428/816-i_n.wav,train,16000,1.9304,w,1927-08-01,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_u_high,u,high,816/vowels/816-u_h.nsp,dataset/Vox_senilis/speaker_1428/816-u_h.wav,train,16000,1.0457,w,1927-08-01,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_u_low,u,low,816/vowels/816-u_l.nsp,dataset/Vox_senilis/speaker_1428/816-u_l.wav,train,16000,1.9012,w,1927-08-01,,Vox senilis
+1428,Vox_senilis,816,sustained_vowel_u_normal,u,normal,816/vowels/816-u_n.nsp,dataset/Vox_senilis/speaker_1428/816-u_n.wav,train,16000,1.2358,w,1927-08-01,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_a_high,a,high,818/vowels/818-a_h.nsp,dataset/Vox_senilis/speaker_1430/818-a_h.wav,train,16000,0.732,m,1926-04-29,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_a_low,a,low,818/vowels/818-a_l.nsp,dataset/Vox_senilis/speaker_1430/818-a_l.wav,train,16000,0.5582,m,1926-04-29,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_a_normal,a,normal,818/vowels/818-a_n.nsp,dataset/Vox_senilis/speaker_1430/818-a_n.wav,train,16000,1.0661,m,1926-04-29,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_i_high,i,high,818/vowels/818-i_h.nsp,dataset/Vox_senilis/speaker_1430/818-i_h.wav,train,16000,0.8651,m,1926-04-29,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_i_low,i,low,818/vowels/818-i_l.nsp,dataset/Vox_senilis/speaker_1430/818-i_l.wav,train,16000,0.7146,m,1926-04-29,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_i_normal,i,normal,818/vowels/818-i_n.nsp,dataset/Vox_senilis/speaker_1430/818-i_n.wav,train,16000,0.9554,m,1926-04-29,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_u_high,u,high,818/vowels/818-u_h.nsp,dataset/Vox_senilis/speaker_1430/818-u_h.wav,train,16000,0.9554,m,1926-04-29,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_u_low,u,low,818/vowels/818-u_l.nsp,dataset/Vox_senilis/speaker_1430/818-u_l.wav,train,16000,0.7895,m,1926-04-29,,Vox senilis
+1430,Vox_senilis,818,sustained_vowel_u_normal,u,normal,818/vowels/818-u_n.nsp,dataset/Vox_senilis/speaker_1430/818-u_n.wav,train,16000,0.8546,m,1926-04-29,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_a_high,a,high,826/vowels/826-a_h.nsp,dataset/Vox_senilis/speaker_1438/826-a_h.wav,train,16000,0.8683,w,1919-07-14,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_a_low,a,low,826/vowels/826-a_l.nsp,dataset/Vox_senilis/speaker_1438/826-a_l.wav,train,16000,1.7206,w,1919-07-14,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_a_normal,a,normal,826/vowels/826-a_n.nsp,dataset/Vox_senilis/speaker_1438/826-a_n.wav,train,16000,1.6921,w,1919-07-14,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_i_high,i,high,826/vowels/826-i_h.nsp,dataset/Vox_senilis/speaker_1438/826-i_h.wav,train,16000,0.9377,w,1919-07-14,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_i_low,i,low,826/vowels/826-i_l.nsp,dataset/Vox_senilis/speaker_1438/826-i_l.wav,train,16000,1.6065,w,1919-07-14,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_i_normal,i,normal,826/vowels/826-i_n.nsp,dataset/Vox_senilis/speaker_1438/826-i_n.wav,train,16000,1.9392,w,1919-07-14,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_u_high,u,high,826/vowels/826-u_h.nsp,dataset/Vox_senilis/speaker_1438/826-u_h.wav,train,16000,0.9411,w,1919-07-14,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_u_low,u,low,826/vowels/826-u_l.nsp,dataset/Vox_senilis/speaker_1438/826-u_l.wav,train,16000,1.4551,w,1919-07-14,,Vox senilis
+1438,Vox_senilis,826,sustained_vowel_u_normal,u,normal,826/vowels/826-u_n.nsp,dataset/Vox_senilis/speaker_1438/826-u_n.wav,train,16000,1.597,w,1919-07-14,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_a_high,a,high,846/vowels/846-a_h.nsp,dataset/Vox_senilis/speaker_1445/846-a_h.wav,train,16000,1.1459,w,1929-11-02,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_a_low,a,low,846/vowels/846-a_l.nsp,dataset/Vox_senilis/speaker_1445/846-a_l.wav,train,16000,1.1598,w,1929-11-02,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_a_normal,a,normal,846/vowels/846-a_n.nsp,dataset/Vox_senilis/speaker_1445/846-a_n.wav,train,16000,1.2199,w,1929-11-02,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_i_high,i,high,846/vowels/846-i_h.nsp,dataset/Vox_senilis/speaker_1445/846-i_h.wav,train,16000,1.3879,w,1929-11-02,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_i_low,i,low,846/vowels/846-i_l.nsp,dataset/Vox_senilis/speaker_1445/846-i_l.wav,train,16000,1.1978,w,1929-11-02,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_i_normal,i,normal,846/vowels/846-i_n.nsp,dataset/Vox_senilis/speaker_1445/846-i_n.wav,train,16000,1.3789,w,1929-11-02,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_u_high,u,high,846/vowels/846-u_h.nsp,dataset/Vox_senilis/speaker_1445/846-u_h.wav,train,16000,1.2072,w,1929-11-02,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_u_low,u,low,846/vowels/846-u_l.nsp,dataset/Vox_senilis/speaker_1445/846-u_l.wav,train,16000,1.1027,w,1929-11-02,,Vox senilis
+1445,Vox_senilis,846,sustained_vowel_u_normal,u,normal,846/vowels/846-u_n.nsp,dataset/Vox_senilis/speaker_1445/846-u_n.wav,train,16000,1.2959,w,1929-11-02,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_a_high,a,high,899/vowels/899-a_h.nsp,dataset/Vox_senilis/speaker_1491/899-a_h.wav,train,16000,1.2453,m,1913-08-27,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_a_low,a,low,899/vowels/899-a_l.nsp,dataset/Vox_senilis/speaker_1491/899-a_l.wav,train,16000,0.8051,m,1913-08-27,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_a_normal,a,normal,899/vowels/899-a_n.nsp,dataset/Vox_senilis/speaker_1491/899-a_n.wav,train,16000,1.9202,m,1913-08-27,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_i_high,i,high,899/vowels/899-i_h.nsp,dataset/Vox_senilis/speaker_1491/899-i_h.wav,train,16000,1.3362,m,1913-08-27,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_i_low,i,low,899/vowels/899-i_l.nsp,dataset/Vox_senilis/speaker_1491/899-i_l.wav,train,16000,1.0822,m,1913-08-27,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_i_normal,i,normal,899/vowels/899-i_n.nsp,dataset/Vox_senilis/speaker_1491/899-i_n.wav,train,16000,1.7966,m,1913-08-27,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_u_high,u,high,899/vowels/899-u_h.nsp,dataset/Vox_senilis/speaker_1491/899-u_h.wav,train,16000,1.4051,m,1913-08-27,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_u_low,u,low,899/vowels/899-u_l.nsp,dataset/Vox_senilis/speaker_1491/899-u_l.wav,train,16000,1.5305,m,1913-08-27,,Vox senilis
+1491,Vox_senilis,899,sustained_vowel_u_normal,u,normal,899/vowels/899-u_n.nsp,dataset/Vox_senilis/speaker_1491/899-u_n.wav,train,16000,1.559,m,1913-08-27,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_a_high,a,high,933/vowels/933-a_h.nsp,dataset/Vox_senilis/speaker_1525/933-a_h.wav,train,16000,1.1502,w,1919-01-14,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_a_low,a,low,933/vowels/933-a_l.nsp,dataset/Vox_senilis/speaker_1525/933-a_l.wav,train,16000,0.5701,w,1919-01-14,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_a_normal,a,normal,933/vowels/933-a_n.nsp,dataset/Vox_senilis/speaker_1525/933-a_n.wav,train,16000,1.9191,w,1919-01-14,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_i_high,i,high,933/vowels/933-i_h.nsp,dataset/Vox_senilis/speaker_1525/933-i_h.wav,train,16000,1.4901,w,1919-01-14,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_i_low,i,low,933/vowels/933-i_l.nsp,dataset/Vox_senilis/speaker_1525/933-i_l.wav,train,16000,1.2168,w,1919-01-14,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_i_normal,i,normal,933/vowels/933-i_n.nsp,dataset/Vox_senilis/speaker_1525/933-i_n.wav,train,16000,1.9451,w,1919-01-14,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_u_high,u,high,933/vowels/933-u_h.nsp,dataset/Vox_senilis/speaker_1525/933-u_h.wav,train,16000,1.1598,w,1919-01-14,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_u_low,u,low,933/vowels/933-u_l.nsp,dataset/Vox_senilis/speaker_1525/933-u_l.wav,train,16000,2.1959,w,1919-01-14,,Vox senilis
+1525,Vox_senilis,933,sustained_vowel_u_normal,u,normal,933/vowels/933-u_n.nsp,dataset/Vox_senilis/speaker_1525/933-u_n.wav,train,16000,1.2052,w,1919-01-14,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_a_high,a,high,1039/vowels/1039-a_h.nsp,dataset/Vox_senilis/speaker_1535/1039-a_h.wav,train,16000,1.9297,m,1923-03-18,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_a_low,a,low,1039/vowels/1039-a_l.nsp,dataset/Vox_senilis/speaker_1535/1039-a_l.wav,train,16000,1.5019,m,1923-03-18,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_a_normal,a,normal,1039/vowels/1039-a_n.nsp,dataset/Vox_senilis/speaker_1535/1039-a_n.wav,train,16000,1.7696,m,1923-03-18,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_i_high,i,high,1039/vowels/1039-i_h.nsp,dataset/Vox_senilis/speaker_1535/1039-i_h.wav,train,16000,1.8917,m,1923-03-18,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_i_low,i,low,1039/vowels/1039-i_l.nsp,dataset/Vox_senilis/speaker_1535/1039-i_l.wav,train,16000,1.7343,m,1923-03-18,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_i_normal,i,normal,1039/vowels/1039-i_n.nsp,dataset/Vox_senilis/speaker_1535/1039-i_n.wav,train,16000,1.6039,m,1923-03-18,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_u_high,u,high,1039/vowels/1039-u_h.nsp,dataset/Vox_senilis/speaker_1535/1039-u_h.wav,train,16000,1.3351,m,1923-03-18,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_u_low,u,low,1039/vowels/1039-u_l.nsp,dataset/Vox_senilis/speaker_1535/1039-u_l.wav,train,16000,1.0951,m,1923-03-18,,Vox senilis
+1535,Vox_senilis,1039,sustained_vowel_u_normal,u,normal,1039/vowels/1039-u_n.nsp,dataset/Vox_senilis/speaker_1535/1039-u_n.wav,train,16000,1.955,m,1923-03-18,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_a_high,a,high,1197/vowels/1197-a_h.nsp,dataset/Vox_senilis/speaker_1594/1197-a_h.wav,train,16000,1.002,m,1929-05-14,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_a_low,a,low,1197/vowels/1197-a_l.nsp,dataset/Vox_senilis/speaker_1594/1197-a_l.wav,train,16000,0.8351,m,1929-05-14,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_a_normal,a,normal,1197/vowels/1197-a_n.nsp,dataset/Vox_senilis/speaker_1594/1197-a_n.wav,train,16000,1.8442,m,1929-05-14,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_i_high,i,high,1197/vowels/1197-i_h.nsp,dataset/Vox_senilis/speaker_1594/1197-i_h.wav,train,16000,0.9411,m,1929-05-14,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_i_low,i,low,1197/vowels/1197-i_l.nsp,dataset/Vox_senilis/speaker_1594/1197-i_l.wav,train,16000,1.0267,m,1929-05-14,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_i_normal,i,normal,1197/vowels/1197-i_n.nsp,dataset/Vox_senilis/speaker_1594/1197-i_n.wav,train,16000,1.9133,m,1929-05-14,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_u_high,u,high,1197/vowels/1197-u_h.nsp,dataset/Vox_senilis/speaker_1594/1197-u_h.wav,train,16000,0.8451,m,1929-05-14,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_u_low,u,low,1197/vowels/1197-u_l.nsp,dataset/Vox_senilis/speaker_1594/1197-u_l.wav,train,16000,0.8701,m,1929-05-14,,Vox senilis
+1594,Vox_senilis,1197,sustained_vowel_u_normal,u,normal,1197/vowels/1197-u_n.nsp,dataset/Vox_senilis/speaker_1594/1197-u_n.wav,train,16000,1.8251,m,1929-05-14,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_a_high,a,high,1203/vowels/1203-a_h.nsp,dataset/Vox_senilis/speaker_1600/1203-a_h.wav,train,16000,1.0251,w,1937-12-20,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_a_low,a,low,1203/vowels/1203-a_l.nsp,dataset/Vox_senilis/speaker_1600/1203-a_l.wav,train,16000,0.8551,w,1937-12-20,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_a_normal,a,normal,1203/vowels/1203-a_n.nsp,dataset/Vox_senilis/speaker_1600/1203-a_n.wav,train,16000,0.6438,w,1937-12-20,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_i_high,i,high,1203/vowels/1203-i_h.nsp,dataset/Vox_senilis/speaker_1600/1203-i_h.wav,train,16000,0.7701,w,1937-12-20,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_i_low,i,low,1203/vowels/1203-i_l.nsp,dataset/Vox_senilis/speaker_1600/1203-i_l.wav,train,16000,0.7951,w,1937-12-20,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_i_normal,i,normal,1203/vowels/1203-i_n.nsp,dataset/Vox_senilis/speaker_1600/1203-i_n.wav,train,16000,0.8841,w,1937-12-20,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_u_high,u,high,1203/vowels/1203-u_h.nsp,dataset/Vox_senilis/speaker_1600/1203-u_h.wav,train,16000,1.0651,w,1937-12-20,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_u_low,u,low,1203/vowels/1203-u_l.nsp,dataset/Vox_senilis/speaker_1600/1203-u_l.wav,train,16000,1.0901,w,1937-12-20,,Vox senilis
+1600,Vox_senilis,1203,sustained_vowel_u_normal,u,normal,1203/vowels/1203-u_n.nsp,dataset/Vox_senilis/speaker_1600/1203-u_n.wav,train,16000,0.5523,w,1937-12-20,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_a_high,a,high,1220/vowels/1220-a_h.nsp,dataset/Vox_senilis/speaker_1608/1220-a_h.wav,train,16000,1.0246,m,1922-05-22,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_a_low,a,low,1220/vowels/1220-a_l.nsp,dataset/Vox_senilis/speaker_1608/1220-a_l.wav,train,16000,1.2172,m,1922-05-22,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_a_normal,a,normal,1220/vowels/1220-a_n.nsp,dataset/Vox_senilis/speaker_1608/1220-a_n.wav,train,16000,0.6268,m,1922-05-22,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_i_high,i,high,1220/vowels/1220-i_h.nsp,dataset/Vox_senilis/speaker_1608/1220-i_h.wav,train,16000,1.9678,m,1922-05-22,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_i_low,i,low,1220/vowels/1220-i_l.nsp,dataset/Vox_senilis/speaker_1608/1220-i_l.wav,train,16000,1.8051,m,1922-05-22,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_i_normal,i,normal,1220/vowels/1220-i_n.nsp,dataset/Vox_senilis/speaker_1608/1220-i_n.wav,train,16000,0.7035,m,1922-05-22,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_u_high,u,high,1220/vowels/1220-u_h.nsp,dataset/Vox_senilis/speaker_1608/1220-u_h.wav,train,16000,1.4245,m,1922-05-22,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_u_low,u,low,1220/vowels/1220-u_l.nsp,dataset/Vox_senilis/speaker_1608/1220-u_l.wav,train,16000,1.4701,m,1922-05-22,,Vox senilis
+1608,Vox_senilis,1220,sustained_vowel_u_normal,u,normal,1220/vowels/1220-u_n.nsp,dataset/Vox_senilis/speaker_1608/1220-u_n.wav,train,16000,0.8509,m,1922-05-22,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_a_high,a,high,1268/vowels/1268-a_h.nsp,dataset/Vox_senilis/speaker_1656/1268-a_h.wav,train,16000,0.6851,m,1915-08-27,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_a_low,a,low,1268/vowels/1268-a_l.nsp,dataset/Vox_senilis/speaker_1656/1268-a_l.wav,train,16000,0.6101,m,1915-08-27,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_a_normal,a,normal,1268/vowels/1268-a_n.nsp,dataset/Vox_senilis/speaker_1656/1268-a_n.wav,train,16000,0.827,m,1915-08-27,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_i_high,i,high,1268/vowels/1268-i_h.nsp,dataset/Vox_senilis/speaker_1656/1268-i_h.wav,train,16000,0.6151,m,1915-08-27,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_i_low,i,low,1268/vowels/1268-i_l.nsp,dataset/Vox_senilis/speaker_1656/1268-i_l.wav,train,16000,0.6201,m,1915-08-27,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_i_normal,i,normal,1268/vowels/1268-i_n.nsp,dataset/Vox_senilis/speaker_1656/1268-i_n.wav,train,16000,0.9506,m,1915-08-27,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_u_high,u,high,1268/vowels/1268-u_h.nsp,dataset/Vox_senilis/speaker_1656/1268-u_h.wav,train,16000,0.5951,m,1915-08-27,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_u_low,u,low,1268/vowels/1268-u_l.nsp,dataset/Vox_senilis/speaker_1656/1268-u_l.wav,train,16000,0.8251,m,1915-08-27,,Vox senilis
+1656,Vox_senilis,1268,sustained_vowel_u_normal,u,normal,1268/vowels/1268-u_n.nsp,dataset/Vox_senilis/speaker_1656/1268-u_n.wav,train,16000,0.732,m,1915-08-27,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_a_high,a,high,1338/vowels/1338-a_h.nsp,dataset/Vox_senilis/speaker_1720/1338-a_h.wav,val,16000,0.3171,m,1910-05-08,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_a_low,a,low,1338/vowels/1338-a_l.nsp,dataset/Vox_senilis/speaker_1720/1338-a_l.wav,val,16000,0.5116,m,1910-05-08,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_a_normal,a,normal,1338/vowels/1338-a_n.nsp,dataset/Vox_senilis/speaker_1720/1338-a_n.wav,val,16000,0.5116,m,1910-05-08,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_i_high,i,high,1338/vowels/1338-i_h.nsp,dataset/Vox_senilis/speaker_1720/1338-i_h.wav,val,16000,0.5581,m,1910-05-08,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_i_low,i,low,1338/vowels/1338-i_l.nsp,dataset/Vox_senilis/speaker_1720/1338-i_l.wav,val,16000,0.5989,m,1910-05-08,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_i_normal,i,normal,1338/vowels/1338-i_n.nsp,dataset/Vox_senilis/speaker_1720/1338-i_n.wav,val,16000,0.6062,m,1910-05-08,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_u_high,u,high,1338/vowels/1338-u_h.nsp,dataset/Vox_senilis/speaker_1720/1338-u_h.wav,val,16000,0.5401,m,1910-05-08,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_u_low,u,low,1338/vowels/1338-u_l.nsp,dataset/Vox_senilis/speaker_1720/1338-u_l.wav,val,16000,0.5324,m,1910-05-08,,Vox senilis
+1720,Vox_senilis,1338,sustained_vowel_u_normal,u,normal,1338/vowels/1338-u_n.nsp,dataset/Vox_senilis/speaker_1720/1338-u_n.wav,val,16000,0.5219,m,1910-05-08,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_a_high,a,high,1478/vowels/1478-a_h.nsp,dataset/Vox_senilis/speaker_1826/1478-a_h.wav,val,16000,0.751,m,1922-07-21,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_a_low,a,low,1478/vowels/1478-a_l.nsp,dataset/Vox_senilis/speaker_1826/1478-a_l.wav,val,16000,0.9506,m,1922-07-21,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_a_normal,a,normal,1478/vowels/1478-a_n.nsp,dataset/Vox_senilis/speaker_1826/1478-a_n.wav,val,16000,0.6654,m,1922-07-21,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_i_high,i,high,1478/vowels/1478-i_h.nsp,dataset/Vox_senilis/speaker_1826/1478-i_h.wav,val,16000,0.9701,m,1922-07-21,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_i_low,i,low,1478/vowels/1478-i_l.nsp,dataset/Vox_senilis/speaker_1826/1478-i_l.wav,val,16000,0.9126,m,1922-07-21,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_i_normal,i,normal,1478/vowels/1478-i_n.nsp,dataset/Vox_senilis/speaker_1826/1478-i_n.wav,val,16000,1.2167,m,1922-07-21,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_u_high,u,high,1478/vowels/1478-u_h.nsp,dataset/Vox_senilis/speaker_1826/1478-u_h.wav,val,16000,0.6601,m,1922-07-21,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_u_low,u,low,1478/vowels/1478-u_l.nsp,dataset/Vox_senilis/speaker_1826/1478-u_l.wav,val,16000,0.6559,m,1922-07-21,,Vox senilis
+1826,Vox_senilis,1478,sustained_vowel_u_normal,u,normal,1478/vowels/1478-u_n.nsp,dataset/Vox_senilis/speaker_1826/1478-u_n.wav,val,16000,1.1122,m,1922-07-21,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_a_high,a,high,1636/vowels/1636-a_h.nsp,dataset/Vox_senilis/speaker_1936/1636-a_h.wav,val,16000,1.1386,w,1926-04-05,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_a_low,a,low,1636/vowels/1636-a_l.nsp,dataset/Vox_senilis/speaker_1936/1636-a_l.wav,val,16000,1.1478,w,1926-04-05,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_a_normal,a,normal,1636/vowels/1636-a_n.nsp,dataset/Vox_senilis/speaker_1936/1636-a_n.wav,val,16000,1.8334,w,1926-04-05,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_i_high,i,high,1636/vowels/1636-i_h.nsp,dataset/Vox_senilis/speaker_1936/1636-i_h.wav,val,16000,1.3907,w,1926-04-05,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_i_low,i,low,1636/vowels/1636-i_l.nsp,dataset/Vox_senilis/speaker_1936/1636-i_l.wav,val,16000,1.3351,w,1926-04-05,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_i_normal,i,normal,1636/vowels/1636-i_n.nsp,dataset/Vox_senilis/speaker_1936/1636-i_n.wav,val,16000,1.4712,w,1926-04-05,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_u_high,u,high,1636/vowels/1636-u_h.nsp,dataset/Vox_senilis/speaker_1936/1636-u_h.wav,val,16000,1.2105,w,1926-04-05,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_u_low,u,low,1636/vowels/1636-u_l.nsp,dataset/Vox_senilis/speaker_1936/1636-u_l.wav,val,16000,1.2584,w,1926-04-05,,Vox senilis
+1936,Vox_senilis,1636,sustained_vowel_u_normal,u,normal,1636/vowels/1636-u_n.nsp,dataset/Vox_senilis/speaker_1936/1636-u_n.wav,val,16000,1.3902,w,1926-04-05,,Vox senilis
