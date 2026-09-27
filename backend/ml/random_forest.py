@@ -66,10 +66,17 @@ class VoiceDisorderClassifier:
         pred_encoded = self.clf.predict(X)
         return list(self.label_encoder.inverse_transform(pred_encoded))
 
-    def predict_proba(self, X: np.ndarray) -> List[Dict[str, float]]:
+    def predict_proba(self, X: np.ndarray, temperature: float = 1.0) -> List[Dict[str, float]]:
         """
         Predicts normalized probability distribution across all trained classes.
         Returns a list of dicts mapping each class name to its probability.
+
+        Args:
+            X: Feature vector or matrix.
+            temperature: Temperature scaling factor (0 < T <= 1.0).
+                - T=1.0  -> raw Random Forest probabilities (default, no change)
+                - T=0.5  -> sharpened: dominant class rises toward ~75-85%
+                - T=0.3  -> very sharp: top class nearly always exceeds ~90%
         """
         if not self.is_trained or self.clf is None:
             raise RuntimeError("Classifier is not trained yet. Train the model or load saved weights.")
@@ -78,8 +85,17 @@ class VoiceDisorderClassifier:
             X = X.reshape(1, -1)
 
         prob_matrix = self.clf.predict_proba(X)
-        results = []
 
+        if temperature != 1.0 and 0 < temperature < 1.0:
+            # Temperature scaling: divide log-probs by T, then re-normalize via softmax
+            log_probs = np.log(np.clip(prob_matrix, 1e-9, 1.0))
+            scaled_log_probs = log_probs / temperature
+            # Numerically stable softmax (subtract max per row)
+            shifted = scaled_log_probs - scaled_log_probs.max(axis=1, keepdims=True)
+            exp_probs = np.exp(shifted)
+            prob_matrix = exp_probs / exp_probs.sum(axis=1, keepdims=True)
+
+        results = []
         for row in prob_matrix:
             prob_dict = {
                 cls_name: round(float(prob), 4)

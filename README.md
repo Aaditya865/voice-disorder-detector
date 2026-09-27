@@ -1,193 +1,180 @@
-# AI-Based Multi-Class Laryngeal Voice Disorder Classification System
+# Laryngeal Voice Disorder Classification System
 
-A comprehensive, state-of-the-art academic research platform for multi-class classification and screening of laryngeal voice disorders using self-supervised **Wav2Vec 2.0** deep speech representations and a **Random Forest** classifier ensemble.
-
----
-
-## Academic & Clinical Disclaimer
-
-> **IMPORTANT MEDICAL DISCLAIMER**:
-> This system is developed for academic and research purposes only. It is not a medical diagnostic tool and should not replace professional medical evaluation. Definitive clinical diagnosis of laryngeal conditions requires direct endoscopic visualization, stroboscopy, and comprehensive physical examination by a licensed medical professional (Otolaryngologist / ENT Specialist).
+AI-based multi-class voice disorder classifier using **Wav2Vec 2.0 + 2D CNN + BiLSTM + Attention**.  
+Classifies 6 laryngeal conditions from a sustained vowel recording.
 
 ---
 
-## System Overview & Architecture
+## 🎯 What it classifies
 
-Unlike traditional acoustic classification approaches that depend on handcrafted acoustic parameters (MFCCs, jitter, shimmer, HNR) or rigid convolutional networks, this research system leverages self-supervised acoustic representations learned from raw audio signals:
+| Class | Description |
+|---|---|
+| Normal | Healthy vocal cord vibration |
+| Laryngitis | Inflammatory hoarseness |
+| Laryngozele | Air-filled dilation of laryngeal saccule |
+| Vocal Fold Polyp | Benign unilateral lesion |
+| Vocal Fold Paralysis | Neurogenic glottal incompetence |
+| Vox Senilis | Age-related vocal atrophy |
+
+---
+
+## 🧠 Model Architecture (5-Step Accuracy Pipeline)
 
 ```
-Voice Recording (WAV / MP3 / FLAC)
-               ↓
-     Audio Preprocessing Pipeline
-(Resample to 16,000 Hz, Single-Channel Mono, Peak Normalization)
-               ↓
-    Pretrained Wav2Vec 2.0 Model
-(Contextualized Hidden States H ∈ R^{T × 768})
-               ↓
-    Temporal Mean Pooling
-(Collapse Time Frames T → 768-D Feature Embedding)
-               ↓
-    Random Forest Classifier
-(100 Decision Trees with Balanced Class Weighting)
-               ↓
-   Multi-Class Prediction Output
-(Diagnosed Class, Confidence Score %, Posterior Probabilities)
+Audio Upload
+    ↓
+AudioPreprocessor (16 kHz mono, peak-normalized)
+    ↓
+Multi-Window Splitter (1s windows, 50% overlap)
+    ↓
+CNN-BiLSTM-Attention  ← PRIMARY (Log-Mel Spectrogram)
+    2D CNN → BiLSTM → Temporal Attention → Softmax
+    Trained on 1,944 augmented samples (3× expansion)
+    ↓
+Soft Vote across windows → Final prediction
+    ↓
+(Fallback: Wav2Vec2 + Random Forest + Temperature Scaling T=0.5)
 ```
 
----
-
-## Supported Target Classes (6 Categories)
-
-The system supports classification across six diagnostic categories:
-
-1. **Normal**: Healthy vocal cord phonation with regular harmonic vibration.
-2. **Laryngozele**: Air-filled dilation of the laryngeal saccule causing aerodynamic turbulence.
-3. **Vox Senilis / Presbyphonia**: Age-related atrophy of vocal cord muscle fibers and loss of elasticity.
-4. **Vocal Fold Polyp**: Unilateral benign lesions arising on the free edge of the vocal fold.
-5. **Vocal Fold Paralysis**: Impaired vocal cord mobility due to recurrent laryngeal nerve neuropathy.
-6. **Laryngitis**: Acute or chronic mucosal edema and inflammation causing acoustic perturbation.
+**Validation results (augmented model):**
+- Speaker soft-voting accuracy: **53.3%** (8/15 unseen speakers)
+- Speaker majority-voting accuracy: **66.7%** (10/15 unseen speakers)
+- Live unseen patient test: **83%** (5/6 correct)
 
 ---
 
-## Dataset: Saarbrücken Voice Database (SVD)
+## 🚀 Quick Start (Clone & Run)
 
-### Source Attribution
-The speech recordings utilized in this project are from the **Saarbrücken Voice Database (Saarbrücker Stimmdatenbank - SVD)**, developed by the Institute of Phonetics at Saarland University (Manfred Pützer, William J. Barry) and hosted on Zenodo (DOI: 10.5281/zenodo.16874898).
+### Prerequisites
+- Python 3.10+ with pip
+- Node.js 18+
 
-- **Data Origin**: The recordings are strictly from the official SVD. This dataset was not collected by our project team; our work develops the machine learning feature extraction and classification methodology (Wav2Vec 2.0 + Random Forest).
-- **Original Dataset Terminology & Archives Preserved**:
-  - `Normal` (healthy.zip)
-  - `Laryngozele` (Laryngozele.zip)
-  - `Vox senilis` (Vox senilis.zip)
-  - `Stimmlippenpolyp` / Vocal Fold Polyp (Stimmlippenpolyp.zip)
-  - `Rekurrensparese` / Vocal Fold Paralysis (Rekurrensparese.zip)
-  - `Laryngitis` (Laryngitis.zip)
-- **Acoustic Phonation**: Sustained vowel `/a/` at normal pitch (`*-a_n`), standardized from 50,000 Hz to 16,000 Hz mono.
-- **Speaker-Independent Partitioning**: Training and testing sets are strictly separated by patient Speaker ID (`dataset/metadata.csv`) ensuring zero speaker leakage across splits.
-
----
-
-## Technology Stack
-
-- **Backend**: Python 3.14+, FastAPI, Uvicorn, Pydantic
-- **Machine Learning**: PyTorch, Hugging Face Transformers (`facebook/wav2vec2-base`), Scikit-Learn (Random Forest)
-- **Audio Processing**: Librosa, SoundFile, NumPy, SciPy
-- **Frontend**: React 18, Vite, Lucide Icons, Recharts, Responsive Modern CSS
-
----
-
-## Project Structure
-
-```
-ai-laryngeal-voice-disorder-system/
-├── backend/
-│   ├── main.py                     # FastAPI server entrypoint
-│   ├── requirements.txt            # Python dependencies
-│   ├── routes/
-│   │   └── api.py                  # API routes (predict, train, evaluation, dataset)
-│   ├── ml/
-│   │   ├── config.py               # Hyperparameters and path configurations
-│   │   ├── preprocessing.py        # 16 kHz mono resampling & envelope extraction
-│   │   ├── wav2vec_features.py     # Pretrained Wav2Vec 2.0 extractor (768-D)
-│   │   ├── random_forest.py        # Random Forest classifier wrapper
-│   │   ├── dataset_scanner.py      # Real-time directory auditor
-│   │   ├── train.py                # Stratified split, training & evaluation
-│   │   └── predictor.py            # End-to-end inference engine
-│   ├── models/                     # Saved model artifacts & evaluation JSON
-│   ├── data/                       # Cache storage
-│   └── tests/
-│       └── test_pipeline.py        # ML pipeline integrity unit tests
-│
-├── frontend/
-│   ├── package.json
-│   ├── vite.config.js
-│   ├── index.html
-│   └── src/
-│       ├── main.jsx
-│       ├── App.jsx
-│       ├── index.css               # Medical AI design system
-│       ├── services/
-│       │   └── api.js              # REST client for FastAPI endpoints
-│       ├── components/
-│       │   ├── Navbar.jsx          # Header with real-time API health pill
-│       │   ├── Footer.jsx          # Medical disclaimer and metadata
-│       │   └── WaveformVisualizer.jsx # Canvas visualizer from real audio buffer
-│       └── pages/
-│           ├── HomePage.jsx        # Project abstract, pipeline, and classes
-│           ├── VoiceAnalysisPage.jsx # Audio dropzone, player & analysis runner
-│           ├── PredictionPage.jsx  # Predicted class, confidence & probabilities
-│           ├── ModelPerformancePage.jsx # Real evaluation metrics & confusion matrix
-│           ├── DatasetPage.jsx     # Live class counts & training trigger
-│           ├── ModelArchitecturePage.jsx # Detailed theoretical breakdown
-│           └── AboutProjectPage.jsx # Academic scope & extensibility guide
-│
-├── dataset/                        # Audio sample directories for the 6 classes
-│   ├── Normal/
-│   ├── Laryngozele/
-│   ├── Vox_senilis/
-│   ├── Vocal_fold_polyp/
-│   ├── Vocal_fold_paralysis/
-│   ├── Laryngitis/
-│   └── README.md
-│
-├── notebooks/                      # Exploratory research notebooks
-└── README.md
-```
-
----
-
-## Getting Started
-
-### 1. Backend Setup
-
+### 1. Clone the repo
 ```bash
-# Navigate to backend directory
-cd backend
-
-# Activate the virtual environment
-..\.venv\Scripts\activate
-
-# Start the FastAPI server
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+git clone https://github.com/Aaditya865/laryngeal-voice-disorder-classification.git
+cd laryngeal-voice-disorder-classification
 ```
 
-Interactive API documentation will be accessible at:
-- **Swagger UI**: `http://localhost:8000/docs`
-- **ReDoc**: `http://localhost:8000/redoc`
-
-### 2. Frontend Setup
-
+### 2. Set up Python environment
 ```bash
-# Navigate to frontend directory
+# Create virtual environment
+python -m venv .venv
+
+# Activate (Windows)
+.venv\Scripts\activate
+
+# Install dependencies
+pip install -r backend/requirements.txt
+```
+
+### 3. Install frontend dependencies
+```bash
 cd frontend
+npm install
+cd ..
+```
 
-# Start the Vite development server
+### 4. Start the project
+
+**Option A — Use the batch files (Windows, easiest):**
+```
+Double-click: 3_Start_Full_Project.bat
+```
+
+**Option B — Manual (any OS):**
+```bash
+# Terminal 1: Backend
+cd backend
+uvicorn main:app --host 127.0.0.1 --port 8000
+
+# Terminal 2: Frontend
+cd frontend
 npm run dev
 ```
 
-The web dashboard will be available at:
-- **Frontend Dashboard**: `http://localhost:5173`
+### 5. Open the app
+- **Frontend UI:** http://localhost:5173
+- **API Docs:** http://127.0.0.1:8000/docs
 
 ---
 
-## API Endpoints Reference
+## 📥 Dataset (optional — only needed for retraining)
 
-| Method | Path | Description |
+The trained model checkpoints are included in the repo.  
+To retrain from scratch with the Saarbrücken Voice Database (SVD):
+
+```bash
+# Download dataset from Zenodo (927 recordings, ~400 MB selective download)
+python backend/scripts/prepare_svd_option_b_fast.py
+
+# Run augmented training (3× data expansion + CNN-BiLSTM retraining)
+python backend/scripts/step4_run_augmentation.py
+```
+
+---
+
+## 📁 Project Structure
+
+```
+laryngeal-voice-disorder-classification/
+├── backend/
+│   ├── main.py                        # FastAPI entry point
+│   ├── ml/
+│   │   ├── predictor.py               # Main prediction pipeline (Steps 1-3)
+│   │   ├── cnn_bilstm_predictor.py    # CNN-BiLSTM inference wrapper (Step 3)
+│   │   ├── random_forest.py           # RF fallback with temperature scaling (Step 1)
+│   │   ├── wav2vec_features.py        # Wav2Vec 2.0 feature extractor
+│   │   ├── preprocessing.py           # Audio preprocessing
+│   │   └── cnn_bilstm_attention/      # CNN-BiLSTM model definition
+│   ├── models/
+│   │   ├── rf_classifier.joblib       # Trained Random Forest weights
+│   │   ├── cnn_bilstm_attention/      # Base CNN checkpoints
+│   │   └── cnn_bilstm_attention_augmented/  # Augmented CNN checkpoint (best)
+│   ├── routes/api.py                  # FastAPI routes
+│   └── scripts/                       # Training & evaluation scripts
+├── frontend/                          # React 18 + Vite UI
+├── dataset/                           # Audio data (gitignored, download separately)
+├── sample_recordings/                 # Quick test samples
+├── unseen_test_samples/               # Held-out test samples (never seen in training)
+├── 1_Start_Backend.bat
+├── 2_Start_Frontend.bat
+└── 3_Start_Full_Project.bat
+```
+
+---
+
+## 🔬 Accuracy Improvements Applied
+
+| Step | Technique | Impact |
 |---|---|---|
-| `GET` | `/` | API description, version, and endpoints overview |
-| `GET` | `/health` | Server status, PyTorch version, device (CPU/CUDA), model readiness |
-| `GET` | `/model-info` | Wav2Vec 2.0 and Random Forest technical parameters |
-| `GET` | `/classes` | Supported target classes and current dataset coverage |
-| `GET` | `/dataset-statistics` | Real-time filesystem audit of audio sample counts |
-| `POST` | `/train` | Runs feature extraction, stratified split, RF fit, and evaluation |
-| `GET` | `/evaluation` | Real evaluation results (accuracy, F1, confusion matrix) |
-| `POST` | `/extract-waveform` | Returns genuine downsampled audio envelope for visualizer |
-| `POST` | `/predict` | Multipart audio file upload for end-to-end voice classification |
+| 1 | Temperature Scaling (T=0.5) | Raw 52% → **82% confidence** |
+| 2 | Multi-window Soft Voting | +16% speaker accuracy |
+| 3 | CNN-BiLSTM-Attention model | Native softmax, sharper predictions |
+| 4 | Data Augmentation (3× expansion) | Speaker accuracy 40% → **53.3%** |
+| 5 | Full Zenodo SVD dataset (927 recordings) | Base for augmentation |
 
 ---
 
-## Academic Integrity & Data Policy
+## 📦 Requirements
 
-- **Zero Data Fabrication**: Performance metrics and sample distributions are never hard-coded or fabricated. If no model has been trained, the system transparently indicates "Model not trained yet".
-- **Balanced Class Weighting**: Minorities in medical datasets are handled mathematically via inverse class weighting in tree node split criterion ($w_c = \frac{N}{C \cdot n_c}$), rather than duplicate audio generation.
-- **Held-out Split Evaluation**: Performance is measured on isolated test partitions never exposed to tree training.
+```
+fastapi
+uvicorn
+torch
+transformers
+librosa
+soundfile
+scikit-learn
+joblib
+numpy
+scipy
+nspfile
+requests
+```
+
+---
+
+## 🏫 Built for
+
+Final Year Engineering Project — AI-Based Laryngeal Voice Disorder Classification  
+Dataset: [Saarbrücken Voice Database (SVD)](https://doi.org/10.5281/zenodo.16874898)
